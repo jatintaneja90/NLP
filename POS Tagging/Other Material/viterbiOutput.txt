@@ -1,0 +1,5116 @@
+ <sentence ID=1> 
+It, pps 
+ was, rp 
+ among, abn 
+ these, jjr 
+ that, to 
+ Hinkle, be 
+ identified, abl 
+ a, to 
+ photograph, vbn 
+ of, to 
+ Barco, '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=2> 
+For, cs 
+ it, wps 
+ seems, jjr 
+ that, to 
+ Barco, uh 
+ ,, to 
+ fancying, vbd 
+ himself, abl 
+ a, to 
+ ladies', pp$ 
+ man, cd-tl 
+ (, ) 
+ and, dt+bez 
+ why, dod 
+ not, uh 
+ ,, vbn 
+ after, ( 
+ seven, dts 
+ marriages, '' 
+ ?, '' 
+ ?, cd 
+ ), uh 
+ ,, wps 
+ had, hvd 
+ listed, vbd 
+ himself, rp 
+ for, pp$ 
+ Mormon, to 
+ Beard, dts 
+ roles, vbn 
+ at, in 
+ the, to 
+ instigation, vbn 
+ of, in 
+ his, pp$ 
+ fourth, od 
+ murder, pp$ 
+ victim, dts 
+ who, wps 
+ had, wdt 
+ said, nns-hl 
+ :, : 
+ ``, rp 
+ With, in 
+ your, pp$ 
+ beard, uh 
+ ,, ql 
+ dear, uh 
+ ,, wrb 
+ you, ppss 
+ ought, qlp 
+ to, md 
+ be, rp 
+ in, dts 
+ movies, uh 
+ '', '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=3> 
+Mills, np 
+ secured, pp$ 
+ Barco's, to 
+ photograph, vbn 
+ from, in 
+ the, at 
+ gentleman, vbn 
+ in, pp$ 
+ charge, uh 
+ ,, be 
+ rushed, vbn 
+ to, in 
+ the, np 
+ Hollywood, dts 
+ police, pp$ 
+ station, qlp 
+ to, pp$ 
+ report, in 
+ the, at 
+ theft, uh 
+ ,, , 
+ and, ql 
+ less, jjr 
+ than, ( 
+ five, dts 
+ minutes, ql 
+ later, uh 
+ ,, dts 
+ detectives, vbn 
+ with, in 
+ his, pp$ 
+ picture, vbn 
+ in, pp$ 
+ hand, ex 
+ were, vbn 
+ on, in 
+ the, at 
+ trail, vbn 
+ of, pp$ 
+ Cal, to 
+ Barco, '' 
+ ., .
+ <EOS> 
+<sentence ID=4> 
+On, in 
+ their, pp$ 
+ way, uh 
+ ,, wrb 
+ they, ppss 
+ stopped, rp 
+ at, in 
+ every, at 
+ gas, pp$ 
+ station, ql 
+ along, in 
+ the, at 
+ main, to 
+ boulevards, qlp 
+ to, pp$ 
+ question, in 
+ the, dts 
+ attendants, '' 
+ ., .
+ <EOS> 
+<sentence ID=5> 
+Finally, uh 
+ ,, vbn 
+ at, to 
+ Ye, pp$ 
+ Olde, to 
+ Gasse, pp$ 
+ Filling, jj-tl 
+ Station, rp 
+ on, to 
+ Avocado, jj-tl 
+ Avenue, uh 
+ ,, wrb 
+ they, hvd 
+ learned, jjr 
+ that, in 
+ their, pp$ 
+ man, uh 
+ ,, ppss+ber 
+ having, nns-tl 
+ paused, qlp 
+ to, to 
+ get, pp$ 
+ oil, vbn 
+ for, in 
+ his, pp$ 
+ car, uh 
+ ,, pps 
+ had, hvd 
+ asked, vbn 
+ about, in 
+ the, at 
+ route, qlp 
+ to, np 
+ San, np 
+ Diego, '' 
+ ., .
+ <EOS> 
+<sentence ID=6> 
+They, ppss 
+ headed, rp 
+ in, jjr 
+ that, at 
+ direction, -- 
+ and, uh 
+ ,, vbn 
+ at, np 
+ San, np 
+ Juan, pp$ 
+ Capistrano, to 
+ By-the-Sea, wps 
+ came, rp 
+ upon, to 
+ Barco, bedz 
+ sitting, rp 
+ in, in 
+ the, ql 
+ quaint, ql 
+ old, ql 
+ Spanish, jj-tl 
+ Mission, pp$ 
+ Drive-in, uh 
+ ,, bedz 
+ eating, abl 
+ a, ql 
+ hot, to 
+ tamale, '' 
+ ., .
+ <EOS> 
+<sentence ID=7> 
+At, in 
+ the, at 
+ moment, uh 
+ ,, to 
+ Barco's, ql 
+ back, ex 
+ was, rp 
+ to, in 
+ the, at 
+ road, bez 
+ so, wrb 
+ he, ppss 
+ didn't, nn$-tl 
+ see, in 
+ the, dts 
+ detectives, ql 
+ close, vbn 
+ in, vbn 
+ on, in 
+ his, ql 
+ convertible, dt+bez 
+ which, uh 
+ ,, vbn 
+ in, in 
+ their, pp$ 
+ quest, vbn 
+ for, in 
+ the, be 
+ stolen, pp$ 
+ lap, pp$ 
+ rug, uh 
+ ,, wrb 
+ they, ppss 
+ proceeded, qlp 
+ to, pp$ 
+ search, '' 
+ ., .
+ <EOS> 
+<sentence ID=8> 
+The, at 
+ robe, uh 
+ ,, ql 
+ however, uh 
+ ,, ex 
+ was, bedz 
+ missing, uh 
+ ,, vbn 
+ for, vbn 
+ by, jjr 
+ that, at 
+ time, to 
+ Barco, wps 
+ had, hvd 
+ disposed, vbn 
+ of, wrb 
+ it, vbn 
+ at, in 
+ a, to 
+ pawnshop, vbn 
+ in, to 
+ Glendale, '' 
+ ., .
+ <EOS> 
+<sentence ID=9> 
+The, at 
+ detectives, be 
+ placed, pp$ 
+ Barco, vbn 
+ under, to 
+ arrest, -- 
+ and, uh 
+ ,, vbn 
+ without, to 
+ informing, pp$ 
+ him, vbn 
+ of, in 
+ the, at 
+ nature, vbn 
+ of, in 
+ the, at 
+ charge, uh 
+ ,, pps 
+ took, vbd 
+ him, ql 
+ back, qlp 
+ to, np 
+ Hollywood, rp 
+ for, bedz 
+ questioning, '' 
+ ., .
+ <EOS> 
+<sentence ID=10> 
+Thus, rb 
+ it, ex 
+ was, jjr 
+ that, to 
+ Barco, uh 
+ ,, be 
+ apprehended, vbn 
+ for, ql 
+ mere, to 
+ larceny, uh 
+ ,, ql 
+ now, pps 
+ began, qlp 
+ to, to 
+ suspect, jjr 
+ that, ( 
+ one, nps 
+ or, do 
+ another, rp 
+ of, in 
+ his, dts 
+ murders, wps 
+ had, hv 
+ been, ben 
+ uncovered, '' 
+ ., .
+ <EOS> 
+<sentence ID=11> 
+During, in 
+ the, to 
+ return, pp$ 
+ trip, uh 
+ ,, to 
+ Barco, be 
+ kept, bedz 
+ muttering, qlp 
+ to, vbd 
+ himself, rp 
+ in, ql 
+ meaningless, dts 
+ phrases, uh 
+ ,, ql 
+ such, jjr 
+ as, nns-hl 
+ :, : 
+ ``, pp$ 
+ They're, vbn 
+ under, pp$ 
+ sand, dts 
+ dunes, `` 
+ They're, ppss+hvd 
+ better, rbr 
+ off, uh 
+ ,, wrb 
+ I, md* 
+ tell, wrb 
+ you, wrb 
+ I, hvd 
+ saved, vbd 
+ their, dts 
+ souls, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=12> 
+The, at 
+ detective, uh 
+ ,, to 
+ commenting, vbn 
+ on, to 
+ Barco's, pp$ 
+ behavior, uh 
+ ,, pps 
+ felt, jjr 
+ that, wrb 
+ he, ql 
+ merely, pps 
+ belonged, rp 
+ among, in 
+ the, ql 
+ myriad, dts 
+ citizens, vbn 
+ of, in 
+ our, pp$ 
+ community, dts 
+ who, ex 
+ are, ql 
+ mentally, to 
+ unhinged, '' 
+ --, jjr 
+ that, wrb 
+ he, ex 
+ was, abl 
+ a, bez 
+ more, nps 
+ or, ber 
+ less, ql 
+ harmless, : 
+ ``, pp$ 
+ nut, uh 
+ '', '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=13> 
+However, rb 
+ while, vbn 
+ in, vb 
+ his, pp$ 
+ cell, bedz 
+ awaiting, pp$ 
+ trial, vbn 
+ for, pp$ 
+ theft, uh 
+ ,, to 
+ Barco, uh 
+ ,, vbn 
+ in, in 
+ a, to 
+ fit, vbn 
+ of, pp$ 
+ apprehension, uh 
+ ,, be 
+ made, abl 
+ an, to 
+ attempt, qlp 
+ to, to 
+ take, vb 
+ his, ql 
+ own, pp$ 
+ life, '' 
+ ., .
+ <EOS> 
+<sentence ID=14> 
+The, at 
+ attempt, wps 
+ had, hvd 
+ failed, jjr 
+ because, uh 
+ ,, dt+bez 
+ when, od 
+ endeavoring, qlp 
+ to, to 
+ cut, vb 
+ his, dts 
+ wrists, uh 
+ ,, in 
+ this, pp$ 
+ murderer, vbn 
+ of, ( 
+ seven, dts 
+ women, wps 
+ had, od 
+ fainted, vbn 
+ at, in 
+ the, at 
+ sight, vbn 
+ of, pp$ 
+ blood, '' 
+ ., .
+ <EOS> 
+<sentence ID=15> 
+The, at 
+ jail, dts 
+ authorities, '' 
+ --, pp$ 
+ attaching, abl 
+ no, ql 
+ particular, pp$ 
+ significance, vbn 
+ to, in 
+ the, at 
+ episode, '' 
+ --, be 
+ offered, pp$ 
+ Barco, pp$ 
+ whisky, qlp 
+ to, to 
+ revive, vb 
+ him, '' 
+ ;, '' 
+ ;, vbn 
+ but, in 
+ the, ql 
+ old, pp$ 
+ fellow, uh 
+ ,, in 
+ a, at 
+ lifelong, to 
+ teetotaler, uh 
+ ,, pps 
+ refused, wrb 
+ it, uh 
+ ,, , 
+ and, abl 
+ no, ql 
+ more, ex 
+ was, wps 
+ thought, rp 
+ of, in 
+ the, at 
+ matter, '' 
+ ., .
+ <EOS> 
+<sentence ID=16> 
+Then, rb 
+ it, ex 
+ was, jjr 
+ that, jj-tl 
+ District, np-tl 
+ Attorney, pp$ 
+ Welch, pps 
+ entered, abl 
+ the, at 
+ case, '' 
+ ., .
+ <EOS> 
+<sentence ID=17> 
+A, at 
+ man, vbn 
+ of, to 
+ vaulting, pp$ 
+ ambition, uh 
+ ,, vbn 
+ with, ( 
+ one, pp$ 
+ eye, vbn 
+ on, in 
+ the, to 
+ mayorship, vbn 
+ of, np 
+ Los, np 
+ Angeles, uh 
+ ,, do 
+ nothing, hvd 
+ ever, be 
+ escaped, vbd 
+ him, dt+bez 
+ which, ex 
+ might, ql 
+ possibly, to 
+ lead, qlp 
+ to, ql 
+ personal, pp$ 
+ publicity, '' 
+ ., .
+ <EOS> 
+<sentence ID=18> 
+It, pps 
+ was, be 
+ reported, qlp 
+ to, to 
+ Welch's, pp$ 
+ office, jjr 
+ that, in 
+ a, at 
+ thief, vbn 
+ in, in 
+ the, at 
+ city, pp$ 
+ jail, pps 
+ had, hvd 
+ attempted, pp$ 
+ suicide, '' 
+ ., .
+ <EOS> 
+<sentence ID=19> 
+Welch, pps 
+ wanted, qlp 
+ to, to 
+ know, dt+bez 
+ why, ) 
+ ., .
+ <EOS> 
+<sentence ID=20> 
+No, at 
+ one, wps 
+ knew, '' 
+ ., .
+ <EOS> 
+<sentence ID=21> 
+Now, rb 
+ Welch, pps 
+ had, abl 
+ a, at 
+ pet, pp$ 
+ theory, jjr 
+ that, do 
+ everyone, ex 
+ is, ql 
+ guilty, vbn 
+ of, bedz 
+ breaking, ql 
+ more, ap 
+ laws, jjr 
+ than, wrb 
+ he, ql 
+ ever, wps 
+ gets, be 
+ caught, vbn 
+ at, '' 
+ ., .
+ <EOS> 
+<sentence ID=22> 
+The, at 
+ suicide, to 
+ attempt, wps 
+ looked, qlp 
+ to, vb 
+ him, jjr 
+ like, in 
+ an, at 
+ opportunity, qlp 
+ to, to 
+ put, vb 
+ his, pp$ 
+ theory, qlp 
+ to, abl 
+ the, to 
+ test, '' 
+ ., .
+ <EOS> 
+<sentence ID=23> 
+So, cs 
+ he, be 
+ paid, abl 
+ a, to 
+ call, vbn 
+ on, pp$ 
+ Barco, vbn 
+ in, in 
+ his, pp$ 
+ cell, -- 
+ and, wps 
+ began, vbd 
+ their, md* 
+ chat, vbn 
+ by, bedz 
+ stating, ql 
+ bluntly, nns-hl 
+ :, : 
+ ``, pp$ 
+ Barco, uh 
+ ,, at 
+ we've, pps 
+ got, abl 
+ the, dts 
+ goods, vbn 
+ on, vb 
+ you, '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=24> 
+It'll, pps+md 
+ be, abl 
+ a, at 
+ lot, ql 
+ better, jjr 
+ if, wrb 
+ you, md* 
+ come, ql 
+ clean, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=25> 
+At, in 
+ first, to 
+ Barco, ex 
+ was, ql 
+ evasive, -- 
+ and, pp$ 
+ shifty, '' 
+ ., .
+ <EOS> 
+<sentence ID=26> 
+But, cc 
+ with, to 
+ Welch's, ql 
+ relentless, pp$ 
+ pursuit, vbn 
+ of, in 
+ the, at 
+ subject, uh 
+ ,, to 
+ Barco, ql 
+ finally, : 
+ ``, wps 
+ broke, uh 
+ '', nps 
+ and, wps 
+ started, pp$ 
+ confessing, qlp 
+ to, ( 
+ one, pp$ 
+ murder, vbn 
+ after, in 
+ another, '' 
+ ., .
+ <EOS> 
+<sentence ID=27> 
+By, in 
+ the, at 
+ time, to 
+ Barco, pp$ 
+ reached, in 
+ the, to 
+ count, vbn 
+ of, ( 
+ three, uh 
+ ,, in 
+ the, at 
+ situation, pps 
+ seemed, qlp 
+ to, to 
+ Welch, ql 
+ almost, bez 
+ too, ql 
+ good, qlp 
+ to, md 
+ be, ql 
+ true, '' 
+ ., .
+ <EOS> 
+<sentence ID=28> 
+But, cc 
+ if, ql 
+ true, uh 
+ ,, wrb 
+ it, pp$ 
+ was, in 
+ the, at 
+ case, vbn 
+ of, dt+bez 
+ which, wdt 
+ he, pps 
+ had, hvd 
+ dreamed, uh 
+ ,, in 
+ the, at 
+ case, dt+bez 
+ which, ex 
+ would, md 
+ throw, vb 
+ him, rp 
+ into, dts 
+ headlines, dt+bez 
+ all, rp 
+ over, in-tl 
+ America, jjr 
+ as, in 
+ the, at 
+ hero, vbn 
+ of, in 
+ a, ql 
+ great, pp$ 
+ murder, pp$ 
+ trial, '' 
+ ., .
+ <EOS> 
+<sentence ID=29> 
+Welch, pps 
+ summoned, pp$ 
+ jail, dts 
+ officials, qlp 
+ to, to 
+ Barco's, pp$ 
+ cell, '' 
+ ., .
+ <EOS> 
+<sentence ID=30> 
+But, cc 
+ to, pp$ 
+ Welch's, pp$ 
+ chagrin, uh 
+ ,, in 
+ the, dts 
+ police, pp$ 
+ captain, to 
+ pooh-poohed, pp$ 
+ Welch's, to 
+ credulity, vbn 
+ in, to 
+ Barco's, pp$ 
+ confession, '' 
+ ., .
+ <EOS> 
+<sentence ID=31> 
+Barco, pps 
+ was, ql 
+ clearly, in 
+ a, : 
+ ``, pp$ 
+ nut, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=32> 
+It, pps 
+ required, pp$ 
+ strength, uh 
+ ,, at 
+ bravado, uh 
+ ,, bedz 
+ daring, qlp 
+ to, to 
+ commit, pp$ 
+ murder, '' 
+ ., .
+ <EOS> 
+<sentence ID=33> 
+``, `` 
+ That, pp$ 
+ worm, in 
+ a, at 
+ murderer, '' 
+ ?, '' 
+ ?, .
+ <EOS> 
+<sentence ID=34> 
+Ridiculous, np 
+ '', '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=35> 
+Then, uh 
+ ,, vbn 
+ for, in 
+ the, ql 
+ first, at 
+ time, jjr 
+ since, in 
+ his, md* 
+ arrest, uh 
+ ,, in 
+ a, to 
+ glint, vbn 
+ of, pp$ 
+ spirit, be 
+ lit, pp$ 
+ Barco's, dts 
+ eyes, '' 
+ ., .
+ <EOS> 
+<sentence ID=36> 
+His, pp$ 
+ manhood, pps 
+ had, hv 
+ been, ben 
+ attacked, '' 
+ ., .
+ <EOS> 
+<sentence ID=37> 
+He, pps 
+ stiffened, nps 
+ and, wps 
+ rose, qlp 
+ to, vb 
+ his, dts 
+ feet, '' 
+ ., .
+ <EOS> 
+<sentence ID=38> 
+He'd, ppss 
+ show, vb 
+ them, '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=39> 
+``, `` 
+ Is, jjr 
+ that, bez 
+ so, uh 
+ '', '' 
+ ?, '' 
+ ?, .
+ <EOS> 
+<sentence ID=40> 
+He, pps 
+ queried, '' 
+ ., .
+ <EOS> 
+<sentence ID=41> 
+``, `` 
+ Well, uh 
+ ,, vbn 
+ for, ( 
+ ten, dts 
+ years, `` 
+ I've, ppss+hv 
+ been, ppss+ber 
+ murdering, dts 
+ women, '' 
+ ., .
+ <EOS> 
+<sentence ID=42> 
+I, ppss 
+ can, md 
+ lead, wrb 
+ you, qlp 
+ to, abl 
+ every, ( 
+ one, rp 
+ of, in 
+ the, dts 
+ bodies, uh 
+ ,, , 
+ and, ql 
+ there, to 
+ ain't, ( 
+ four, uh 
+ ,, , 
+ nor, ( 
+ five, uh 
+ ,, , 
+ nor, ( 
+ six, rp 
+ of, vb 
+ 'em, '' 
+ --, pp$ 
+ there's, ( 
+ seven, '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=43> 
+'', '' 
+ The, ql 
+ next, od 
+ day, in 
+ the, dts 
+ police, pp$ 
+ captain, uh 
+ ,, vbn 
+ in, to 
+ derision, uh 
+ ,, be 
+ organized, dt+bez 
+ what, wdt 
+ he, be 
+ termed, : 
+ ``, pp$ 
+ Welch's, at-tl 
+ Wild, jj-tl 
+ Goose, in-tl 
+ Chase, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=44> 
+For, cs 
+ indeed, wrb 
+ it, pps 
+ seemed, ql 
+ incredible, jjr 
+ that, do 
+ anyone, ex 
+ could, md 
+ go, vbn 
+ on, bedz 
+ committing, pp$ 
+ murder, vbn 
+ for, ( 
+ ten, dts 
+ years, -- 
+ and, dod 
+ not, md 
+ get, be 
+ caught, vbn 
+ at, wrb 
+ it, uh 
+ ,, ql 
+ even, vbn 
+ in, np 
+ Hollywood, '' 
+ ., .
+ <EOS> 
+<sentence ID=45> 
+The, at 
+ searching, pp$ 
+ party, pps 
+ consisted, rp 
+ of, in 
+ the, dts 
+ police, pp$ 
+ captain, uh 
+ ,, to 
+ Welch, uh 
+ ,, to 
+ Barco, uh 
+ ,, dts 
+ policemen, vbn 
+ with, to 
+ shovels, uh 
+ ,, at 
+ newspaper, dts 
+ reporters, uh 
+ ,, , 
+ and, pp$ 
+ cameramen, '' 
+ ., .
+ <EOS> 
+<sentence ID=46> 
+Barco, uh 
+ ,, vbd 
+ his, pp$ 
+ state, vbn 
+ of, pp$ 
+ apprehension, be 
+ gone, uh 
+ ,, ql 
+ never, qlp 
+ to, to 
+ return, uh 
+ ,, pps 
+ had, hvd 
+ assumed, abl 
+ a, to 
+ matter-of-factness, dt+bez 
+ which, ben 
+ remained, vbd 
+ his, pp$ 
+ principal, pp$ 
+ attitude, vbn 
+ from, jjr 
+ that, at 
+ time, vbn 
+ on, '' 
+ ., .
+ <EOS> 
+<sentence ID=47> 
+He, pps 
+ directed, abl 
+ the, to 
+ cortege, vbn 
+ of, dts 
+ autos, qlp 
+ to, abl 
+ the, at 
+ sand, dts 
+ dunes, vbn 
+ near, np 
+ Santa, pp$ 
+ Monica, '' 
+ ., .
+ <EOS> 
+<sentence ID=48> 
+Stopping, in 
+ the, dts 
+ cars, vbn 
+ at, abl 
+ a, at 
+ fork, vbn 
+ in, in 
+ the, at 
+ road, uh 
+ ,, wrb 
+ he, pps 
+ got, vbd 
+ out, uh 
+ ,, pps 
+ paced, vbd 
+ off, abl 
+ a, ql 
+ certain, pp$ 
+ distance, qlp 
+ to, abl 
+ a, at 
+ spot, vbn 
+ between, ( 
+ two, pp$ 
+ shrub-covered, pp$ 
+ sand, dts 
+ hills, uh 
+ ,, , 
+ and, be 
+ indicated, abl 
+ a, at 
+ location, '' 
+ ., .
+ <EOS> 
+<sentence ID=49> 
+Orders, ppss 
+ were, be 
+ given, qlp 
+ to, to 
+ dig, '' 
+ ., .
+ <EOS> 
+<sentence ID=50> 
+Nothing, pn 
+ was, be 
+ found, '' 
+ ., .
+ <EOS> 
+<sentence ID=51> 
+Welch, pps 
+ was, be 
+ worried, '' 
+ ., .
+ <EOS> 
+<sentence ID=52> 
+The, at 
+ police, pp$ 
+ captain, pps 
+ chortled, '' 
+ ., .
+ <EOS> 
+<sentence ID=53> 
+The, at 
+ newspaper, dts 
+ boys, be 
+ cracked, dts 
+ jokes, -- 
+ and, ql 
+ again, to 
+ Barco's, pp$ 
+ pride, ex 
+ was, be 
+ aroused, '' 
+ ., .
+ <EOS> 
+<sentence ID=54> 
+With, in 
+ greater, nn$ 
+ precision, wrb 
+ he, ql 
+ again, pps 
+ paced, rp 
+ off, in 
+ a, at 
+ location, uh 
+ ,, in 
+ this, pp$ 
+ time, in 
+ a, ql 
+ little, ql 
+ more, qlp 
+ to, abl 
+ the, be 
+ left, '' 
+ ., .
+ <EOS> 
+<sentence ID=55> 
+With, in 
+ quibs, -- 
+ and, pp$ 
+ gibes, uh 
+ ,, in 
+ the, dts 
+ policemen, ql 
+ again, pps 
+ started, ppss+ber 
+ digging, '' 
+ ., .
+ <EOS> 
+<sentence ID=56> 
+Welch, pps 
+ was, rp 
+ on, pp$ 
+ edge, '' 
+ ., .
+ <EOS> 
+<sentence ID=57> 
+The, at 
+ captain, ex 
+ was, pp$ 
+ remarking, jjr 
+ that, wrb 
+ it, pp$ 
+ was, in 
+ a, ql 
+ nice, pp$ 
+ day, vbn 
+ for, in 
+ a, at 
+ picnic, dt+bez 
+ when, hvd 
+ finally, ( 
+ one, rp 
+ of, in 
+ the, at 
+ shovels, pps 
+ struck, abl 
+ an, to 
+ object, '' 
+ ., .
+ <EOS> 
+<sentence ID=58> 
+``, `` 
+ There's, ex+bez 
+ something, hvd 
+ here, uh 
+ '', '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=59> 
+Said, in 
+ the, to 
+ digger, '' 
+ ., .
+ <EOS> 
+<sentence ID=60> 
+Joking, pps 
+ stopped, nps 
+ and, do 
+ everyone, hvd 
+ gathered, ql 
+ around, '' 
+ ., .
+ <EOS> 
+<sentence ID=61> 
+The, at 
+ digger, uh 
+ ,, bedz 
+ thrusting, rp 
+ about, vbn 
+ with, in 
+ his, pp$ 
+ shovel, uh 
+ ,, ql 
+ now, be 
+ raised, vbn 
+ into, pp$ 
+ view, in 
+ a, at 
+ package, to 
+ crudely, be 
+ wrapped, vbn 
+ in, ( 
+ one, rp 
+ of, in 
+ the, to 
+ murderer's, np 
+ Hollywood, pp$ 
+ sport, to 
+ shirts, '' 
+ ., .
+ <EOS> 
+<sentence ID=62> 
+Although, wrb 
+ it, ex 
+ was, abl 
+ a, ql 
+ mere, pp$ 
+ fragment, vbn 
+ of, in 
+ the, to 
+ victim's, wps 
+ remains, uh 
+ ,, wrb 
+ it, ex 
+ was, ql 
+ enough, ) 
+ ., .
+ <EOS> 
+<sentence ID=63> 
+Welch, pps 
+ was, ql 
+ wild, vbn 
+ with, pp$ 
+ delight, '' 
+ ., .
+ <EOS> 
+<sentence ID=64> 
+His, pp$ 
+ elation, pps 
+ grew, jjr 
+ as, to 
+ Barco's, ( 
+ seven, dts 
+ disclosures, be 
+ brought, qlp 
+ to, pp$ 
+ light, ( 
+ one, pp$ 
+ reward, vbn 
+ after, in 
+ another, '' 
+ ., .
+ <EOS> 
+<sentence ID=65> 
+Now, rb 
+ did, od 
+ Welch, ql 
+ truly, at 
+ become, in 
+ the, at 
+ man, vbn 
+ of, in 
+ the, at 
+ hour, uh 
+ ,, , 
+ and, do 
+ everything, jjr 
+ that, be 
+ followed, vbn 
+ in, in 
+ the, at 
+ procedure, vbn 
+ of, jj-tl 
+ Justice, ex 
+ was, abl 
+ a, ql 
+ new, pp$ 
+ triumph, vbn 
+ for, vb 
+ him, '' 
+ ., .
+ <EOS> 
+<sentence ID=66> 
+It, pps 
+ went, qlp 
+ to, vbd 
+ his, pp$ 
+ head, uh 
+ ,, , 
+ and, vbd 
+ his, pp$ 
+ ambition, be 
+ increased, '' 
+ ., .
+ <EOS> 
+<sentence ID=67> 
+It, ex 
+ was, ql 
+ apparent, jjr 
+ that, to 
+ Welch, ex 
+ was, rp 
+ in, to 
+ cahoots, vbn 
+ with, np 
+ Marshall, nps 
+ and, ppss 
+ would, md 
+ use, vb 
+ his, pp$ 
+ power, jjr 
+ as, np 
+ D., np
+ <EOS> 
+<sentence ID=68> 
+A., np
+ <EOS> 
+<sentence ID=69> 
+to, to 
+ drag, abl 
+ every, ql 
+ possible, pp$ 
+ sensation, vbn 
+ into, in 
+ the, at 
+ case, '' 
+ ., .
+ <EOS> 
+<sentence ID=70> 
+Every, at 
+ new, pp$ 
+ scandal, to 
+ which, ppss 
+ would, md 
+ provide, ql 
+ more, : 
+ ``, pp$ 
+ copy, to 
+ '', vbn 
+ for, to 
+ Marshall's, pp$ 
+ pen, ppss 
+ would, ql 
+ thus, to 
+ mean, ql 
+ more, od 
+ publicity, vbn 
+ for, to 
+ Welch, '' 
+ ., .
+ <EOS> 
+<sentence ID=71> 
+I, ppss 
+ knew, jjr 
+ that, bed 
+ both, abx 
+ these, dts 
+ cynics, ex 
+ were, bedz 
+ waiting, rp 
+ with, pp$ 
+ impatience, vbn 
+ for, abl 
+ the, ql 
+ dramatic, pp$ 
+ moment, dt+bez 
+ when, od 
+ Viola, ex 
+ was, be 
+ called, qlp 
+ to, abl 
+ the, to 
+ stand, '' 
+ ., .
+ <EOS> 
+<sentence ID=72> 
+Once, cs 
+ there, uh 
+ ,, in 
+ the, np 
+ D., np
+ <EOS> 
+<sentence ID=73> 
+A., np
+ <EOS> 
+<sentence ID=74> 
+with, in 
+ devilish, to 
+ cleverness, ppss 
+ would, md 
+ provide, np 
+ Marshall, rp 
+ with, dts 
+ headlines, nns-hl 
+ :, : 
+ ``, pp$ 
+ Viola's, to 
+ Multiple, pp$ 
+ Romances, uh 
+ '', : 
+ ``, pp$ 
+ Viola, jj-tl 
+ Lake, abl 
+ an, to 
+ Addict, uh 
+ '', : 
+ ``, pp$ 
+ Downfall, vbn 
+ of, in 
+ Another, np-tl 
+ Film, pp$ 
+ Idol, uh 
+ '', '' 
+ !, '' 
+ !, .
+ <EOS>
+<sentence ID=75>
+ It, ql
+ would, md
+ be, be 
+ fine, uh
+ publicity, vbn
+ for, pp$
+ the, at
+ many, rp 
+ who, wps
+ was, ql
+ willing, in
+ to, to 
+ walk, vb
+ to, to 
+ the, at
+ mayor's, nn
+ throne, nn
+ over, in
+ the, at
+ broken, od
+ reputation, nn
+ of, in
+ a, at
+ helpless, pp$
+ girl, nn
+ !, '' 
+ !, .
+ <EOS>
+<sentence ID=76>
+ I, ppss
+ studied, vb
+ Welch, nn$
+ closely, uh
+ as, wrb 
+ the, at
+ trial, vb
+ progressed, abl
+ for, pp$
+ any, rp
+ hint, '' 
+ which, in
+ might, ql 
+ give, vb
+ me, nn$
+ a, at
+ lead, wrb 
+ as, wrb 
+ to, to
+ how, vb
+ he, ''
+ might, ql 
+ be, be
+ thwarted
+ ., .
+<EOS>
+<sentence ID=77>
+ It, ex
+ wasn't, vb
+ long, rp
+ before, uh
+ I, ppss
+ sensed, vb
+ that, dts
+ there, pps
+ was, vb
+ something, hvd
+ deeper, od
+ than, wrb
+ overvaulting, ''
+ ambition, uh
+ back, ex 
+ of, in
+ his, md*
+ desire, vb
+ for, cs 
+ Viola's, to
+ destruction, nn$
+ ., .
+<EOS>
+<sentence ID=78>
+ He, pps
+ was, vb
+ bitter, abl 
+ and, jjr 
+ resentful, web
+ toward, ''
+ her, pp$ 
+ ,, .
+ personally, uh
+ resentful, web
+ ., .
+<EOS>
+<sentence ID=79>
+ A, at
+ dreadful, jj
+ fear, nn$
+ entered, bedz
+ my, dts
+ consciousness, ''
+ that, dts 
+ perhaps, qlp
+ he, pps 
+ had, vb
+ entertained, vb
+ aspirations, pp$
+ toward ''
+ Viola's, to
+ favors, nps
+ --, --
+ or, in
+ ,, ,
+ even, vbs
+ more, nps
+ serious, pp$
+ perhaps, ''
+ ,, ,
+ that, dts 
+ he, pps 
+ had, vb
+ attained, nps
+ a, at
+ share, ex
+ of, pp$
+ them, nn$
+ and, dod
+ had, vb
+ then, pps
+ been, vb
+ superseded. ''
+ by, pp$ 
+ some, had
+ luckier, abl
+ chap, nn$
+ ., .
+<EOS>
+<sentence ID=80>
+ I, md*
+ did, od
+ not, pp$
+ rest, abl
+ until, vps
+ I, md*
+ had, vb
+ tracked, vb
+ the, at
+ mystery, nn$
+ down, wrb
+ ., .
+<EOS>
+<sentence ID=81> 
+Well, uh 
+ ,, ql 
+ here, wrb 
+ it, ex 
+ is, '' 
+ ., .
+ <EOS> 
+<sentence ID=82> 
+One, cd 
+ day, vbn 
+ over, in 
+ a, at 
+ year, jjr 
+ before, uh 
+ ,, ql 
+ there, pps 
+ had, od 
+ been, in 
+ a, at 
+ cocktail, pp$ 
+ party, vbn 
+ in, in 
+ an, at 
+ apartment, vbn 
+ of, in 
+ a, vbd 
+ downtown, od 
+ hotel, '' 
+ ., .
+ <EOS> 
+<sentence ID=83> 
+Viola, pps 
+ had, hv 
+ been, ben 
+ urged, qlp 
+ to, to 
+ attend, uh 
+ ,, vbn 
+ by, pp$ 
+ telephone, uh 
+ ,, , 
+ and, dod 
+ not, pp$ 
+ knowing, in 
+ the, at 
+ host, pp$ 
+ or, in 
+ the, at 
+ character, vbn 
+ of, in 
+ the, at 
+ party, uh 
+ ,, wrb 
+ she, pps 
+ had, hvd 
+ gone, '' 
+ ., .
+ <EOS> 
+<sentence ID=84> 
+She, pps 
+ arrived, ql 
+ late, , 
+ and, jjr 
+ as, wrb 
+ she, pps 
+ entered, abl 
+ the, at 
+ party, uh 
+ ,, be 
+ noted, jjr 
+ that, dts 
+ gentlemen, wps 
+ seemed, qlp 
+ to, to 
+ be, vbn 
+ in, abl 
+ the, at 
+ majority, '' 
+ ;, '' 
+ ;, abl 
+ the, at 
+ air, ex 
+ was, ql 
+ thick, vbn 
+ with, to 
+ smoke, uh 
+ ,, ql 
+ empty, dts 
+ bottles, ex 
+ were, vbn 
+ in, pp$ 
+ evidence, uh 
+ ,, , 
+ and, ql 
+ several, rp 
+ of, abl 
+ the, dts 
+ guests, ex 
+ were, ber 
+ somewhat, abl 
+ the, ql 
+ worse, nns-tl 
+ for, pp$ 
+ liquor, '' 
+ ., .
+ <EOS> 
+<sentence ID=85> 
+Naturally, uh 
+ ,, to 
+ Viola, wps 
+ had, abl 
+ no, to 
+ wish, qlp 
+ to, to 
+ remain, uh 
+ ,, , 
+ but, wrb 
+ she, pps 
+ felt, wrb 
+ she, ppss 
+ couldn't, md* 
+ leave, ber 
+ so, ql 
+ soon, vbn 
+ after, vb 
+ her, pp$ 
+ arrival, uh 
+ ,, vbn 
+ in, dt+bez 
+ all, od 
+ politeness, qlp 
+ to, vb 
+ her, pp$ 
+ host, '' 
+ ., .
+ <EOS> 
+<sentence ID=86> 
+And, wdt 
+ it, ql 
+ so, pps 
+ happened, jjr 
+ that, ql 
+ adjacent, qlp 
+ to, abl 
+ a, at 
+ couch, vbn 
+ on, dt+bez 
+ which, wdt 
+ she, pps 
+ had, hvd 
+ taken, pp$ 
+ refuge, ex 
+ was, abl 
+ a, ql 
+ small, pp$ 
+ table, vbn 
+ on, dt+bez 
+ which, wdt 
+ she, be 
+ noted, abl 
+ a, to 
+ vase, vbn 
+ of, ql 
+ red, to 
+ rosebuds, '' 
+ ;, '' 
+ ;, jjr 
+ while, bedz 
+ projecting, rp 
+ from, vbn 
+ beneath, in 
+ the, at 
+ couch, ex 
+ were, abl 
+ a, at 
+ pair, vbn 
+ of, dts 
+ feet, dt+bez 
+ which, uh 
+ ,, jjr 
+ as, jj-tl 
+ Fate, ppss 
+ would, md 
+ have, wdt 
+ it, uh 
+ ,, pps 
+ belonged, qlp 
+ to, jj-tl 
+ District, np-tl 
+ Attorney, pp$ 
+ Welch, '' 
+ ., .
+ <EOS> 
+<sentence ID=87> 
+As, cs 
+ Viola, pps 
+ sat, ql 
+ there, uh 
+ ,, in 
+ a, ql 
+ playful, pp$ 
+ impulse, pps 
+ overcame, vbd 
+ her, qlp 
+ to, pp$ 
+ remove, in 
+ the, dts 
+ shoes, -- 
+ and, dts 
+ socks, vbn 
+ from, in 
+ the, to 
+ unidentified, dts 
+ feet, -- 
+ and, uh 
+ ,, jjr 
+ as, in 
+ a, to 
+ prank, uh 
+ ,, to 
+ insert, pp$ 
+ rosebuds, vbn 
+ between, in 
+ the, dts 
+ toes, '' 
+ ., .
+ <EOS> 
+<sentence ID=88> 
+A, at 
+ little, pp$ 
+ later, in 
+ the, at 
+ district, pp$ 
+ attorney, pps 
+ woke, vbd 
+ up, uh 
+ ,, pps 
+ emerged, rp 
+ from, vbn 
+ under, in 
+ the, at 
+ couch, uh 
+ ,, pps 
+ looked, rp 
+ at, abn 
+ his, md* 
+ watch, uh 
+ ,, , 
+ and, wps 
+ realized, wrb 
+ he, pps 
+ had, abl 
+ an, at 
+ engagement, jjr 
+ that, bez 
+ very, od 
+ hour, qlp 
+ to, pp$ 
+ address, in 
+ a, at 
+ meeting, vbn 
+ of, in 
+ the, jj-tl 
+ Culture, np-tl 
+ Forum, rp 
+ on, : 
+ ``, abl 
+ The, at-tl 
+ Civic, '' 
+ Spirit, vbn 
+ of, in 
+ the, to 
+ Southland, uh 
+ '', uh 
+ ,, vbn 
+ in, in 
+ the, ql 
+ Byzantine, pp$ 
+ room, vbn 
+ of, in 
+ the, at 
+ hotel, dt+bez 
+ where, abn 
+ his, pp$ 
+ wife, uh 
+ ,, jjr 
+ as, at 
+ president, vbn 
+ of, in 
+ the, at 
+ forum, uh 
+ ,, ex 
+ was, qlp 
+ to, to 
+ preside, '' 
+ ., .
+ <EOS> 
+<sentence ID=89> 
+He, pps 
+ made, vbd 
+ his, pp$ 
+ way, qlp 
+ to, vbd 
+ his, pp$ 
+ host's, pp$ 
+ bedroom, dt+bez 
+ where, wrb 
+ he, ql 
+ carefully, pps 
+ brushed, vbd 
+ himself, vbg 
+ off, uh 
+ ,, ql 
+ neatly, be 
+ arranged, vbd 
+ his, pp$ 
+ hair, uh 
+ ,, , 
+ and, pp$ 
+ painstakingly, be 
+ selected, vbd 
+ his, pp$ 
+ hat, vbn 
+ from, in 
+ the, ql 
+ many, rp 
+ on, in 
+ the, at 
+ bed, '' 
+ ., .
+ <EOS> 
+<sentence ID=90> 
+Then, uh 
+ ,, bedz 
+ noting, nps 
+ neither, abl 
+ the, at 
+ absence, vbn 
+ of, in 
+ his, pp$ 
+ footwear, -- 
+ nor, abl 
+ the, at 
+ presence, vbn 
+ of, abl 
+ the, to 
+ rosebuds, uh 
+ ,, wrb 
+ he, pp$ 
+ made, in 
+ his, pp$ 
+ way, qlp 
+ to, abl 
+ the, ql 
+ Byzantine, pp$ 
+ room, -- 
+ and, uh 
+ ,, vbn 
+ with, in 
+ his, ql 
+ usual, pp$ 
+ dignity, uh 
+ ,, be 
+ mounted, abl 
+ the, to 
+ rostrum, '' 
+ ., .
+ <EOS> 
+<sentence ID=91> 
+The, at 
+ effect, vbn 
+ on, in 
+ the, dts 
+ intellectuals, vbn 
+ among, in 
+ his, pp$ 
+ audience, ppss 
+ may, ql 
+ well, md 
+ be, be 
+ imagined, '' 
+ ., .
+ <EOS> 
+<sentence ID=92> 
+The, at 
+ incident, uh 
+ ,, ql 
+ aside, vbn 
+ from, bedz 
+ reflecting, rp 
+ on, to 
+ Welch's, ql 
+ political, pp$ 
+ career, uh 
+ ,, pps 
+ had, dt+bez 
+ all, ) 
+ but, be 
+ wrecked, vbd 
+ his, pp$ 
+ home, pp$ 
+ life, '' 
+ ., .
+ <EOS>
+<sentence ID=93> 
+He, pps 
+ never, pps 
+ rested, jjr 
+ until, wrb 
+ he, be 
+ discovered, pp$ 
+ who, in 
+ the, to 
+ culprit, ex 
+ was, uh 
+ ,, , 
+ and, dt+bez 
+ when, wrb 
+ he, pps 
+ did, uh 
+ ,, wrb 
+ he, pps 
+ vowed, pp$ 
+ vengeance, vbn 
+ on, to 
+ Viola, jj-tl 
+ Lake, jjr 
+ if, ql 
+ ever, in 
+ the, at 
+ chance, pps 
+ came, vbd 
+ his, pp$ 
+ way, '' 
+ ., .
+ <EOS> 
+<sentence ID=94> 
+And, cc 
+ here, wrb 
+ it, ex 
+ was, '' 
+ !, '' 
+ !, .
+ <EOS> 
+<sentence ID=95> 
+By, in 
+ such, ql 
+ innocent, dts 
+ actions, ex 
+ are, ql 
+ human, dts 
+ tragedies, ql 
+ sometimes, be 
+ set, vbn 
+ in, pp$ 
+ motion, '' 
+ ., .
+ <EOS> 
+<sentence ID=96> 
+During, in 
+ these, ql 
+ first, dts 
+ days, vbn 
+ of, in 
+ the, at 
+ trial, wrb 
+ I, ql 
+ didn't, md 
+ have, jjr 
+ as, ql 
+ much, od 
+ time, qlp 
+ to, to 
+ commiserate, vbn 
+ with, to 
+ Viola, jjr 
+ as, wrb 
+ I, ppss 
+ should, md 
+ have, ben 
+ liked, '' 
+ ., .
+ <EOS> 
+<sentence ID=97> 
+In, in 
+ the, ql 
+ first, at 
+ place, uh 
+ ,, wrb 
+ it, ex 
+ was, ql 
+ difficult, vbn 
+ for, vb 
+ us, qlp 
+ to, to 
+ meet, '' 
+ ., .
+ <EOS> 
+<sentence ID=98> 
+We, ppss 
+ couldn't, md* 
+ be, be 
+ seen, ql 
+ together, uh 
+ ,, vbn 
+ for, in 
+ the, at 
+ tongue, vbn 
+ of, to 
+ Scandal, ex 
+ was, ql 
+ ever, ql 
+ ready, qlp 
+ to, to 
+ link, vb 
+ our, dts 
+ names, uh 
+ ,, at 
+ and, in 
+ the, at 
+ tongue, vbn 
+ of, to 
+ Scandal, wps 
+ finds, -- 
+ but, ( 
+ one, pp$ 
+ thing, qlp 
+ to, to 
+ say, vbn 
+ of, in 
+ the, at 
+ association, vbn 
+ of, in 
+ a, at 
+ man, vbn 
+ with, in 
+ a, at 
+ girl, uh 
+ ,, in 
+ no, at 
+ matter, dt+bez 
+ how, np$ 
+ innocent, '' 
+ ., .
+ <EOS> 
+<sentence ID=99> 
+I, ppss 
+ couldn't, md* 
+ invite, pp$ 
+ Viola, qlp 
+ to, vb 
+ our, pp$ 
+ house, uh 
+ ,, vbn 
+ for, jj-tl 
+ Mother, pp$ 
+ snobbishly, pps 
+ refused, qlp 
+ to, to 
+ receive, vb 
+ her, '' 
+ ., .
+ <EOS> 
+<sentence ID=100> 
+Now, abl 
+ the, to 
+ Czarship, wdt 
+ had, doz 
+ not, be 
+ affected, vbd 
+ my, ql 
+ own, pp$ 
+ sense, vbn 
+ of, ql 
+ social, dts 
+ values, uh 
+ ,, , 
+ but, np-tl 
+ Mother, wdt 
+ had, hvd 
+ attained, abl 
+ a, be 
+ reflected, pp$ 
+ glory, vbn 
+ through, wrb 
+ it, uh 
+ ,, dt+bez 
+ which, wdt 
+ had, hvd 
+ opened, abl 
+ the, dts 
+ doors, vbn 
+ of, np 
+ Los, pp$ 
+ Angeles-Pasadena, jj-tl 
+ Society, qlp 
+ to, vb 
+ her, '' 
+ ., .
+ <EOS> 
+<sentence ID=101> 
+There, uh 
+ ,, jj-tl 
+ Mother, ex 
+ was, be 
+ received, vbn 
+ by, abl 
+ the, to 
+ scions, rbr 
+ of, ql 
+ aristocratic, dts 
+ lines, dt+bez 
+ which, ex 
+ are, hvd 
+ dominated, vbn 
+ by, abl 
+ the, to 
+ Budweisers, cd-tl 
+ (, rbr 
+ of, pp$ 
+ beer, to 
+ derivation, cd 
+ ), uh 
+ ,, abl 
+ the, to 
+ Chalmers, cd-tl 
+ (, rbr 
+ of, to 
+ underwear, pp$ 
+ origin, cd 
+ ), uh 
+ ,, , 
+ and, abl 
+ the, to 
+ Heinzes, cd-tl 
+ (, ( 
+ whose, do* 
+ forbears, be 
+ founded, abl 
+ a, ql 
+ nationally, ql 
+ famous, pp$ 
+ trade, vbn 
+ in, to 
+ pickles, cd 
+ ), ) 
+ ., .
+ <EOS> 
+<sentence ID=102> 
+I, ppss 
+ hated, ber 
+ being, beg 
+ dragged, vbn 
+ into, in 
+ the, dts 
+ salons, vbn 
+ of, abn 
+ these, '' 
+ aristocrats, '' 
+ ., .
+ <EOS> 
+<sentence ID=103> 
+But, cc 
+ Mother, wps 
+ insisted, uh 
+ ,, vbn 
+ for, wrb 
+ it, ex 
+ is, ql 
+ seldom, ql 
+ indeed, jjr 
+ that, do 
+ anyone, od 
+ remotely, be 
+ connected, vbn 
+ with, in 
+ the, to 
+ cinema, ex 
+ is, ql 
+ ever, be 
+ received, vbn 
+ in, in 
+ their, ql 
+ exclusive, to 
+ midsts, '' 
+ ., .
+ <EOS> 
+<sentence ID=104> 
+In, in 
+ fact, uh 
+ ,, wrb 
+ it, ex 
+ was, dod 
+ not, jjr 
+ until, in 
+ the, jj-tl 
+ King, rp 
+ of, np 
+ Spain, wps 
+ had, hvd 
+ visited, vbn 
+ at, to 
+ Pickfair, jjr 
+ that, np 
+ Mary, nps 
+ and, pp$ 
+ Doug, ex 
+ were, wps 
+ beckoned, qlp 
+ to, pp$ 
+ cross, in 
+ the, ql 
+ sacred, dts 
+ barriers, dt+bez 
+ which, md* 
+ separate, np 
+ Los, np 
+ Angeles, nps 
+ and, np 
+ Pasadena, rp 
+ from, in 
+ the, to 
+ hoi-polloi, '' 
+ ., .
+ <EOS> 
+<sentence ID=105> 
+Mother, pps 
+ even, pps 
+ went, ber 
+ so, ql 
+ far, jjr 
+ as, qlp 
+ to, to 
+ trump, vbd 
+ up, rp 
+ for, vb 
+ me, pp$ 
+ matrimonial, dts 
+ opportunities, rp 
+ with, np 
+ Pasadena, pp$ 
+ debs, dts 
+ who, wps 
+ had, hv 
+ been, ben 
+ educated, ql 
+ abroad, uh 
+ ,, , 
+ and, rp 
+ with, abn 
+ those, rp 
+ of, in 
+ the, bez 
+ more, ql 
+ lenient, np 
+ Los, np 
+ Angeles, pp$ 
+ area, dt+bez 
+ where, abl 
+ a, to 
+ debutante, ex 
+ was, abl 
+ a, at 
+ girl, dts 
+ who, wps 
+ had, hv 
+ been, qlp 
+ to, ql 
+ high, pp$ 
+ school, '' 
+ ., .
+ <EOS> 
+<sentence ID=106> 
+But, vbn 
+ at, ql 
+ long, ql 
+ last, wdt 
+ came, abl 
+ a, at 
+ time, dt+bez 
+ when, wrb 
+ I, ppss 
+ broke, ql 
+ away, vbn 
+ from, jj-tl 
+ Mother, pp$ 
+ and, vb 
+ her, pp$ 
+ society, : 
+ ``, pp$ 
+ chi-chi, uh 
+ '', rp 
+ in, pp$ 
+ order, qlp 
+ to, to 
+ spend, abl 
+ a, to 
+ cosy, pp$ 
+ evening, vbn 
+ with, to 
+ Viola, pp$ 
+ and, vb 
+ her, pp$ 
+ chaperon, vbn 
+ at, vb 
+ her, pp$ 
+ home, '' 
+ ., .
+ <EOS> 
+<sentence ID=107> 
+However, uh 
+ ,, ql 
+ such, abl 
+ a, to 
+ hotbed, vbn 
+ of, pp$ 
+ gossip, pps 
+ had, hvd 
+ grown, vbd 
+ up, rp 
+ during, abl 
+ the, at 
+ trial, uh 
+ ,, jjr 
+ that, in 
+ every, at 
+ precaution, pps 
+ had, qlp 
+ to, md 
+ be, be 
+ taken, qlp 
+ to, to 
+ keep, vb 
+ my, md* 
+ visit, vbn 
+ from, pp$ 
+ being, pps 
+ whispered, qlp 
+ to, abl 
+ the, at 
+ world, uh 
+ ,, jj-tl 
+ Society, uh 
+ ,, , 
+ and, ql 
+ even, uh 
+ ,, `` 
+ alas, uh 
+ ,, qlp 
+ to, vb 
+ my, ql 
+ own, pp$ 
+ mother, '' 
+ ., .
+ <EOS> 
+<sentence ID=108> 
+When, wrb 
+ I, ppss 
+ arrived, rp 
+ at, to 
+ Viola's, wrb 
+ I, ex 
+ was, be 
+ shown, uh 
+ ,, qlp 
+ to, vb 
+ my, pp$ 
+ surprise, uh 
+ ,, vbn 
+ into, in 
+ the, at 
+ kitchen, '' 
+ ., .
+ <EOS> 
+<sentence ID=109> 
+Viola, pps 
+ greeted, vbd 
+ me, uh 
+ ,, vbn 
+ in, be 
+ checked, pp$ 
+ apron, uh 
+ ,, to 
+ ladle, vbn 
+ in, pp$ 
+ hand, uh 
+ ,, ) 
+ and, wps 
+ explained, wrb 
+ it, ex 
+ was, abl 
+ the, to 
+ cook's, pp$ 
+ night, vbd 
+ out, ) 
+ and, jjr 
+ that, wrb 
+ she, vbd 
+ herself, ex 
+ was, bedz 
+ preparing, pp$ 
+ dinner, '' 
+ ., .
+ <EOS> 
+<sentence ID=110> 
+I, ppss 
+ sat, nps 
+ and, wps 
+ watched, dts 
+ proceedings, '' 
+ ., .
+ <EOS> 
+<sentence ID=111> 
+There, ex 
+ was, qlp 
+ to, md 
+ be, pp$ 
+ roast, pp$ 
+ chicken, vbn 
+ with, bedz 
+ dressing, uh 
+ ,, to 
+ giblet, pp$ 
+ gravy, uh 
+ ,, to 
+ asparagus, uh 
+ ,, ql 
+ new, dts 
+ peas, vbn 
+ with, in 
+ a, to 
+ sprig, vbn 
+ of, pp$ 
+ mint, uh 
+ ,, to 
+ creamed, dts 
+ onions, uh 
+ ,, , 
+ and, be 
+ mashed, dts 
+ potatoes, '' 
+ --, dt+bez 
+ all, ben 
+ chosen, uh 
+ ,, be 
+ prepared, uh 
+ ,, , 
+ and, be 
+ cooked, vbn 
+ by, to 
+ Viola, vbd 
+ herself, '' 
+ ., .
+ <EOS> 
+<sentence ID=112> 
+I, ppss 
+ realized, jjr 
+ that, np 
+ Hamlet, ex 
+ was, be 
+ faced, vbn 
+ with, in 
+ an, ql 
+ entirely, ql 
+ different, pp$ 
+ problem, uh 
+ ,, , 
+ but, vbd 
+ his, pp$ 
+ agony, ppss 
+ could, md 
+ have, hv 
+ been, abl 
+ no, ql 
+ greater, cd-tl 
+ ., .
+ <EOS> 
+<sentence ID=113> 
+The, at 
+ most, jjr 
+ that, ex 
+ was, be 
+ accomplished, ex 
+ was, bedz 
+ adding, ( 
+ Mrs., np
+ <EOS> 
+<sentence ID=114> 
+Beige's, at 
+ tray, vbn 
+ to, in 
+ the, at 
+ dish, to 
+ pile, uh 
+ ,, , 
+ and, rp 
+ by, dts 
+ means, vbn 
+ of, be 
+ repeated, dts 
+ threats, uh 
+ ,, vbn 
+ on, in 
+ an, to 
+ ascending, pp$ 
+ scale, uh 
+ ,, bedz 
+ seeing, jjr 
+ that, in 
+ the, dts 
+ girls, be 
+ dressed, nps 
+ themselves, uh 
+ ,, vbn 
+ after, in 
+ a, at 
+ fashion, '' 
+ ., .
+ <EOS> 
+<sentence ID=115> 
+I, ppss 
+ was, be 
+ saved, vbn 
+ from, bedz 
+ making, abl 
+ the, at 
+ decision, jjr 
+ as, abl 
+ the, at 
+ phone, pps 
+ rang, uh 
+ ,, , 
+ and, abl 
+ the, dts 
+ girls, ex 
+ were, vbn 
+ upon, vb 
+ me, ql 
+ instantly, '' 
+ ., .
+ <EOS>
+<sentence ID=116> 
+Here's, in 
+ a, at 
+ household, to 
+ hint, nns-hl 
+ :, -- 
+ if, wrb 
+ you, ppss 
+ can't, md* 
+ find, vb 
+ your, pp$ 
+ children, uh 
+ ,, , 
+ and, to 
+ get, be 
+ tired, vbn 
+ of, bedz 
+ calling, do 
+ them, uh 
+ ,, to 
+ pick, vb 
+ up, abl 
+ the, at 
+ phone, '' 
+ ., .
+ <EOS> 
+<sentence ID=117> 
+No, at 
+ matter, jjr 
+ if, vb 
+ your, pp$ 
+ children, ex 
+ are, rp 
+ at, abl 
+ the, dts 
+ movies, uh 
+ ,, vbn 
+ in, pp$ 
+ school, uh 
+ ,, bedz 
+ visiting, vbg 
+ their, pp$ 
+ grandmother, uh 
+ ,, , 
+ or, vbn 
+ on, in 
+ a, at 
+ field, pp$ 
+ trip, vbn 
+ in, cs 
+ some, ql 
+ distant, pp$ 
+ city, uh 
+ ,, wrb 
+ they, ppss 
+ will, md 
+ be, rp 
+ upon, wrb 
+ you, pp$ 
+ magically, vbn 
+ within, dts 
+ seconds, vbn 
+ after, wrb 
+ you, md* 
+ pick, vb 
+ up, abl 
+ the, at 
+ phone, '' 
+ ., .
+ <EOS> 
+<sentence ID=118> 
+Jennie, np 
+ and, to 
+ Miranda, pps 
+ twined, vb 
+ themselves, ppls 
+ around, vb 
+ me, uh 
+ ,, to 
+ murmuring, pp$ 
+ endearments, '' 
+ ., .
+ <EOS> 
+<sentence ID=119> 
+Louise, np 
+ climbed, vbn 
+ onto, in 
+ a, at 
+ stool, , 
+ and, pps 
+ clutched, abl 
+ the, at 
+ hand, vbn 
+ with, dt+bez 
+ which, wrb 
+ I, ex 
+ was, bedz 
+ trying, qlp 
+ to, to 
+ hold, abl 
+ the, at 
+ phone, uh 
+ ,, bedz 
+ claiming, vbg 
+ my, pp$ 
+ immediate, pp$ 
+ attention, vbn 
+ on, dts 
+ grounds, vbn 
+ of, ql 
+ extreme, pp$ 
+ emergency, '' 
+ ., .
+ <EOS> 
+<sentence ID=120> 
+Somehow, rb 
+ managing, qlp 
+ to, to 
+ get, rp 
+ out, in 
+ a, ql 
+ cool, uh 
+ ,, be 
+ poised, uh 
+ ,, : 
+ ``, to 
+ Won't, wrb 
+ you, md* 
+ hold, rp 
+ on, in 
+ a, at 
+ second, uh 
+ ,, to 
+ please, uh 
+ '', uh 
+ ,, wrb 
+ I, bed 
+ covered, vb 
+ up, abl 
+ the, at 
+ mouthpiece, uh 
+ ,, , 
+ and, vbn 
+ with, ql 
+ more, pp$ 
+ warmth, , 
+ and, ql 
+ less, pp$ 
+ poise, uh 
+ ,, pps 
+ gave, in 
+ a, ql 
+ quick, to 
+ lecture, rp 
+ on, pp$ 
+ crime, , 
+ and, pp$ 
+ punishment, uh 
+ ,, ql 
+ mostly, abl 
+ the, ql 
+ latter, uh 
+ ,, vbn 
+ including, to 
+ Devil's, at-tl 
+ Island, , 
+ and, abl 
+ the, to 
+ remoter, wps 
+ reaches, vbn 
+ of, np 
+ Siberia, ppo 
+ ., .
+ <EOS> 
+<sentence ID=121> 
+I, ppss 
+ promised, qlp 
+ to, pp$ 
+ illustrate, in 
+ the, to 
+ lecture, uh 
+ ,, jjr 
+ if, wrb 
+ they, pps+bez 
+ so, ql 
+ much, jjr 
+ as, pps 
+ breathed, jjr 
+ till, vbn 
+ after, in 
+ the, to 
+ call, ex 
+ was, be 
+ completed, ppo 
+ ., .
+ <EOS> 
+<sentence ID=122> 
+Speaking, vbg 
+ into, abl 
+ the, at 
+ phone, ql 
+ again, -- 
+ and, bedz 
+ recognizing, abl 
+ the, to 
+ caller, uh 
+ ,, wrb 
+ I, wps 
+ resumed, in 
+ my, pp$ 
+ everyday, pp$ 
+ voice, '' 
+ ., .
+ <EOS> 
+<sentence ID=123> 
+Soon, rb 
+ we, ex 
+ were, bed 
+ deep, vbn 
+ in, in 
+ a, at 
+ conversation, jjr 
+ that, ex 
+ was, pps 
+ interrupted, ql 
+ many, dts 
+ times, vbn 
+ by, ql 
+ little, dts 
+ things, jjr 
+ like, to 
+ Jennie's, bed 
+ holding, do 
+ her, pp$ 
+ breath, , 
+ and, bedz 
+ pretending, qlp 
+ to, ql 
+ black, vb 
+ out, uh 
+ ,, to 
+ Miranda's, pps 
+ dumping, in 
+ the, dts 
+ contents, vbn 
+ of, in 
+ the, at 
+ sugar, pp$ 
+ bowl, vbn 
+ on, in 
+ the, at 
+ table, uh 
+ ,, , 
+ and, ql 
+ various, to 
+ screeches, uh 
+ ,, to 
+ thuds, uh 
+ ,, , 
+ and, pp$ 
+ giggles, '' 
+ ., .
+ <EOS> 
+<sentence ID=124> 
+Under, in 
+ the, dts 
+ circumstances, uh 
+ ,, at-tl 
+ I, pps 
+ had, pp$ 
+ difficulty, in 
+ keeping, vbd 
+ up, rp 
+ with, in 
+ the, at 
+ conversation, vbn 
+ on, in 
+ the, at 
+ phone, uh 
+ ,, , 
+ but, dt+bez 
+ when, wrb 
+ I, wps 
+ hung, vbn 
+ up, wrb 
+ I, ex 
+ was, ql 
+ reasonably, ql 
+ certain, jjr 
+ that, to 
+ Francesca, pps 
+ had, pps 
+ wanted, qlp 
+ to, to 
+ remind, vb 
+ me, rp 
+ of, in 
+ our, pp$ 
+ town, pp$ 
+ meeting, in 
+ the, ql 
+ next, pp$ 
+ evening, uh 
+ ,, -- 
+ and, dt+bez 
+ how, pp$ 
+ important, wrb 
+ it, ex 
+ was, jjr 
+ that, np 
+ Hank, -- 
+ and, wrb 
+ I, md* 
+ be, * 
+ there, ppo 
+ ., .
+ <EOS> 
+<sentence ID=125> 
+I, ppss 
+ discovered, pp$ 
+ that, in 
+ the, dts 
+ girls, pps 
+ had, to 
+ shrewdly, pps 
+ vacated, in 
+ the, at 
+ kitchen, uh 
+ ,, , 
+ and, ex 
+ were, bed 
+ playing, ql 
+ quietly, rp 
+ in, in 
+ the, bedz 
+ living, pp$ 
+ room, '' 
+ ., .
+ <EOS> 
+<sentence ID=126> 
+It, pps 
+ seemed, jjr 
+ that, wrb 
+ I, ppss 
+ would, md 
+ be, abl 
+ the, to 
+ gainer, jjr 
+ if, wrb 
+ I, hvd 
+ accepted, abl 
+ the, at 
+ peace, -- 
+ and, ql 
+ quiet, uh 
+ ,, ql 
+ instead, vbn 
+ of, bedz 
+ carrying, vbg 
+ out, rp 
+ my, dts 
+ threats, '' 
+ ., .
+ <EOS> 
+<sentence ID=127> 
+Resolving, rb 
+ to, to 
+ get, do 
+ something, hvd 
+ done, uh 
+ ,, wrb 
+ I, ppss 
+ started, rp 
+ in, vbn 
+ on, in 
+ the, dts 
+ dishes, '' 
+ ., .
+ <EOS> 
+<sentence ID=128> 
+No, rb 
+ ., .
+ <EOS> 
+<sentence ID=129> 
+I'm, ppss+bem 
+ not, ppss+ber 
+ saying, wrb 
+ it, ql 
+ right, '' 
+ ., .
+ <EOS> 
+<sentence ID=130> 
+What, wrb 
+ I, ppss 
+ meant, qlp 
+ to, to 
+ say, ex 
+ was, jjr 
+ that, wrb 
+ I, ppss 
+ started, qlp 
+ to, to 
+ start, vbn 
+ in, vbn 
+ on, in 
+ the, dts 
+ dishes, vbn 
+ by, pp$ 
+ gathering, vb 
+ them, dt+bez 
+ all, rp 
+ together, vbn 
+ in, in 
+ the, at 
+ kitchen, to 
+ sink, '' 
+ ., .
+ <EOS>
+<sentence ID=131> 
+They, ppss 
+ looked, bez 
+ so, ql 
+ formidable, uh 
+ ,, ql 
+ however, uh 
+ ,, bez 
+ so, bed 
+ demanding, uh 
+ ,, jjr 
+ that, wrb 
+ I, wps 
+ found, vbd 
+ myself, ppss+ber 
+ staring, rp 
+ at, vb 
+ them, rp 
+ in, pp$ 
+ dismay, -- 
+ and, bedz 
+ starting, qlp 
+ to, to 
+ woolgather, ql 
+ again, uh 
+ ,, do 
+ this, pp$ 
+ time, vbn 
+ about, to 
+ Francesca, -- 
+ and, vb 
+ her, pp$ 
+ husband, '' 
+ ., .
+ <EOS> 
+<sentence ID=132> 
+How, wrb 
+ about, vb 
+ them, uh 
+ ,, wrb 
+ I, wps 
+ thought, '' 
+ ., .
+ <EOS> 
+<sentence ID=133> 
+Francesca, np 
+ and, np 
+ Herbert, ex 
+ were, ppl 
+ among, in 
+ the, ql 
+ few, dts 
+ people, wrb 
+ we, wps 
+ knew, vbn 
+ in, pp$ 
+ Catatonia, '' 
+ ., .
+ <EOS> 
+<sentence ID=134> 
+We, ppss 
+ didn't, wql 
+ even, md 
+ know, vb 
+ them, jjr 
+ till, vbn 
+ about, in 
+ a, at 
+ month, vbn 
+ after, wrb 
+ we, wps 
+ moved, to 
+ --, rp 
+ at, jjr 
+ that, pp$ 
+ time, uh 
+ ,, to 
+ they, pps 
+ had, be 
+ called, vbn 
+ on, vb 
+ us, uh 
+ ,, vbn 
+ after, wrb 
+ I, wps 
+ met, to 
+ Fran, rp 
+ at, in 
+ a, to 
+ PTA, pp$ 
+ meeting, uh 
+ ,, , 
+ and, pps 
+ had, be 
+ taken, vb 
+ us, rp 
+ in, pp$ 
+ hand, ql 
+ socially, ppo 
+ ., .
+ <EOS> 
+<sentence ID=135> 
+They, ppss 
+ had, hvz 
+ been, pp$ 
+ kind, qlp 
+ to, pp$ 
+ us, , 
+ and, wrb 
+ we, ex 
+ were, bed 
+ indebted, qlp 
+ to, pp$ 
+ them, vbn 
+ for, ( 
+ one, -- 
+ or, ( 
+ two, pp$ 
+ pleasant, dts 
+ dinners, uh 
+ ,, , 
+ and, vbn 
+ for, pp$ 
+ information, jjr 
+ as, qlp 
+ to, dt+bez 
+ where, qlp 
+ to, pp$ 
+ shop, uh 
+ ,, dt+bez 
+ which, pp$ 
+ dentist, uh 
+ ,, pp$ 
+ doctor, uh 
+ ,, to 
+ plumber, uh 
+ ,, , 
+ and, pp$ 
+ sitter, qlp 
+ to, to 
+ call, cd-tl 
+ (, doz 
+ not, -- 
+ that, ql 
+ there, ex 
+ was, pp$ 
+ much, vbn 
+ of, abl 
+ a, at 
+ choice, uh 
+ ,, jjr 
+ since, to 
+ Catatonia, ex 
+ was, ql 
+ just, abl 
+ a, at 
+ village, ppo 
+ ;, pp$ 
+ ;, in 
+ the, ql 
+ yellow, dts 
+ pages, vbn 
+ of, in 
+ the, at 
+ telephone, pp$ 
+ book, ex 
+ were, od 
+ amazingly, ql 
+ thin, cd 
+ ), ) 
+ ., .
+ <EOS> 
+<sentence ID=136> 
+They, ppss 
+ were, beg 
+ ``, dts 
+ personalities, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=137> 
+Herb, uh 
+ ,, abl 
+ an, ql 
+ expert, vbn 
+ on, ql 
+ narrow, dts 
+ ties, uh 
+ ,, ql 
+ thin, to 
+ lapels, uh 
+ ,, , 
+ and, dts 
+ swatches, uh 
+ ,, ex 
+ was, to 
+ men's, pp$ 
+ fashion, jj-hl 
+ editor, rp 
+ of, to 
+ Parvenu, pp$ 
+ ,, in 
+ the, ql 
+ weekly, pp$ 
+ magazine, vbn 
+ with, in 
+ the, ql 
+ tremendous, pp$ 
+ circulation, '' 
+ ., .
+ <EOS> 
+<sentence ID=138> 
+Fran, np 
+ and, wrb 
+ he, pps 
+ had, pps 
+ met, vbn 
+ about, ( 
+ two, cd 
+ years, vbn 
+ after, wrb 
+ she, pps 
+ had, pps 
+ arrived, vbn 
+ in, np 
+ Manhattan, rp 
+ from, np 
+ Nebraska, uh 
+ ,, , 
+ or, ex 
+ was, wrb 
+ it, ( 
+ Wyoming, ppo 
+ ?, ppo 
+ ?, .
+ <EOS> 
+<sentence ID=139> 
+She, pps 
+ was, abl 
+ the, at 
+ daughter, -- 
+ and, ql 
+ sole, to 
+ heiress, rp 
+ of, pp$ 
+ either, in 
+ a, dts 
+ cattle, to 
+ baron, -- 
+ or, abl 
+ an, at 
+ oil, to 
+ millionaire, -- 
+ and, uh 
+ ,, ppss+ber 
+ having, ppss+hv 
+ arrived, rp 
+ in, at-tl 
+ New, in-tl 
+ York, vbn 
+ with, in 
+ a, ql 
+ big, pp$ 
+ bank, to 
+ roll, uh 
+ ,, pps 
+ became, in 
+ a, to 
+ dabbler, rp 
+ in, ql 
+ various, dts 
+ fields, ppo 
+ ., .
+ <EOS> 
+<sentence ID=140> 
+She, pps 
+ patronized, in-tl 
+ Greenwich, jj-tl 
+ Village, dts 
+ artists, vbn 
+ for, ql 
+ awhile, uh 
+ ,, ql 
+ then, md 
+ put, hv 
+ some, pp$ 
+ money, vbn 
+ into, in 
+ a, np 
+ Broadway, to 
+ show, dt+bez 
+ which, ex 
+ was, ql 
+ successful, cd-tl 
+ (, bed 
+ terrible, uh 
+ ,, , 
+ but, ql 
+ successful, cd 
+ ), ) 
+ ., .
+ <EOS> 
+<sentence ID=141> 
+It, pps 
+ was, vbn 
+ during, vb 
+ her, : 
+ ``, bedz 
+ writing, uh 
+ '', pp$ 
+ period, jjr 
+ that, pp$ 
+ she, , 
+ and, np 
+ Herb, pps 
+ met, , 
+ and, pps 
+ decided, jjr 
+ that, wrb 
+ they, ex 
+ were, ppl 
+ in, pp$ 
+ love, '' 
+ ., .
+ <EOS> 
+<sentence ID=142> 
+They, ppss 
+ were, bed 
+ married, vbn 
+ at, in 
+ a, ql 
+ lavish, pp$ 
+ ceremony, dt+bez 
+ which, ex 
+ was, ql 
+ duly, be 
+ recorded, vbn 
+ in, pp$ 
+ Parvenu, , 
+ and, dt+bez 
+ all, wql 
+ other, dts 
+ magazines, , 
+ and, dts 
+ newspapers, uh 
+ ,, , 
+ and, ql 
+ then, wrb 
+ they, pp$ 
+ honeymooned, vbn 
+ in, np 
+ Bermuda, ppo 
+ ., .
+ <EOS> 
+<sentence ID=143> 
+No, rb 
+ ,, dod 
+ not, od 
+ Bermuda, '' 
+ ., .
+ <EOS> 
+<sentence ID=144> 
+Bermuda, pps 
+ was, dod 
+ not, rp 
+ in, pp$ 
+ style, jjr 
+ that, pp$ 
+ year, '' 
+ ., .
+ <EOS> 
+<sentence ID=145> 
+They, ppss 
+ had, to 
+ honeymooned, rp 
+ in, np 
+ Rome, ppo 
+ ;, ppo 
+ ;, do 
+ everyone, ex 
+ was, bez 
+ very, ql 
+ high, vbn 
+ on, np 
+ Rome, jjr 
+ that, pp$ 
+ year, '' 
+ ., .
+ <EOS> 
+<sentence ID=146> 
+They, wps 
+ had, pps 
+ bought, in 
+ their, pp$ 
+ house, vbn 
+ in, to 
+ Catatonia, rp 
+ after, bedz 
+ investigating, dt+bez 
+ all, abl 
+ the, dts 
+ regions, vbn 
+ of, to 
+ suburbia, bed 
+ surrounding, at-tl 
+ New, in-tl 
+ York, ppo 
+ ;, ppo 
+ ;, wrb 
+ they, wps 
+ had, be 
+ chosen, to 
+ Catatonia, jjr 
+ because, vbn 
+ of, in 
+ its, pp$ 
+ reputation, vbn 
+ for, ql 
+ excellent, dts 
+ schools, uh 
+ ,, dts 
+ beaches, uh 
+ ,, , 
+ and, pp$ 
+ abundance, vbn 
+ of, dts 
+ names, ppo 
+ ., .
+ <EOS> 
+<sentence ID=147> 
+``, `` 
+ You, ex 
+ are, be 
+ bound, qlp 
+ to, md* 
+ get, be 
+ involved, rp 
+ with, dts 
+ people, dt+bez 
+ when, wrb 
+ you, ppss 
+ have, dts 
+ children, uh 
+ '', uh 
+ ,, to 
+ Fran, pps 
+ had, pps 
+ told, vb 
+ me, rp 
+ at, in 
+ our, pp$ 
+ first, od 
+ meeting, uh 
+ ,, : 
+ ``, bez 
+ so, wrb 
+ it, ex 
+ is, pp$ 
+ good, qlp 
+ to, to 
+ know, jjr 
+ that, abn 
+ those, rp 
+ with, to 
+ whom, wrb 
+ you, md* 
+ get, be 
+ involved, ex 
+ are, doz 
+ not, * 
+ just, ql 
+ dreary, ql 
+ little, dts 
+ housewives, , 
+ and, ql 
+ dull, dts 
+ husbands, uh 
+ ,, , 
+ but, dts 
+ People, dts 
+ Who, md* 
+ Do, vbn-tl 
+ Things, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=148> 
+I, ppss 
+ admired, in 
+ their, pp$ 
+ easy, pp$ 
+ way, vbn 
+ of, pp$ 
+ doing, dts 
+ things, , 
+ but, wrb 
+ I, ppss 
+ couldn't, md* 
+ escape, abl 
+ an, at 
+ uneasiness, vbn 
+ at, in 
+ their, pp$ 
+ way, vbn 
+ of, ql 
+ always, bed 
+ doing, abl 
+ the, ql 
+ right, dts 
+ things, ppo 
+ ., .
+ <EOS> 
+<sentence ID=149> 
+Their, pp$ 
+ house, ex 
+ was, abl 
+ a, to 
+ centuries-old, at-tl 
+ Colonial, dt+bez 
+ which, to 
+ they, pps 
+ had, pps 
+ had, be 
+ restored, cd-tl 
+ (, bed 
+ guided, vbn 
+ by, in 
+ an, ql 
+ eminent, pp$ 
+ architect, pp$ 
+ ), , 
+ and, be 
+ updated, uh 
+ ,, , 
+ and, be 
+ added, vbn 
+ on, vbn 
+ to, '' 
+ ., .
+ <EOS> 
+<sentence ID=150> 
+It, pps 
+ had, abl 
+ a, to 
+ gourmet's, pp$ 
+ corner, cd-tl 
+ (, bed 
+ instead, rp 
+ of, abl 
+ a, at 
+ kitchen, cd 
+ ), uh 
+ ,, abl 
+ a, in 
+ breakfast, at 
+ room, uh 
+ ,, abl 
+ a, in 
+ luncheon, at 
+ room, uh 
+ ,, abl 
+ a, in 
+ dining, at 
+ room, uh 
+ ,, abl 
+ a, in 
+ sitting, at 
+ room, uh 
+ ,, abl 
+ a, at 
+ room, vbn 
+ for, bedz 
+ standing, vbg 
+ up, uh 
+ ,, abl 
+ a, in 
+ party, at 
+ room, uh 
+ ,, bedz 
+ dressing, cd 
+ rooms, vbn 
+ for, do 
+ everybody, uh 
+ ,, ql 
+ even, abl 
+ a, at 
+ room, vbn 
+ for, pp$ 
+ mud, '' 
+ ., .
+ <EOS> 
+ <sentence ID=151> 
+It, pps 
+ was, dt+bez 
+ all, ben 
+ set, vbn 
+ up, ber 
+ so, ql 
+ there, ppss 
+ would, md 
+ be, abl 
+ no, at 
+ dust, ql 
+ anywhere, , 
+ and, ber 
+ so, jjr 
+ that, in 
+ their, dts 
+ children, ppss 
+ would, pp$ 
+ color, vbn 
+ in, in 
+ the, to 
+ coloring, pp$ 
+ room, uh 
+ ,, to 
+ paint, vbn 
+ in, in 
+ the, bedz 
+ painting, pp$ 
+ room, uh 
+ ,, to 
+ play, vbn 
+ with, dts 
+ blocks, vbn 
+ in, in 
+ the, at 
+ block, pp$ 
+ house, uh 
+ ,, , 
+ and, ppss 
+ do, od 
+ all, in 
+ the, ql 
+ other, ap 
+ things, vbn 
+ in, in 
+ the, ql 
+ proper, dts 
+ rooms, vbn 
+ at, ql 
+ exactly, in 
+ the, ql 
+ right, pp$ 
+ time, '' 
+ ., .
+ <EOS> 
+<sentence ID=152> 
+Their, pp$ 
+ two, dts 
+ boys, ex 
+ were, : 
+ ``, ql 
+ well, be 
+ adjusted, pp$ 
+ '', -- 
+ and, uh 
+ ,, to 
+ like, vb 
+ their, dts 
+ parents, uh 
+ ,, ql 
+ always, pps 
+ did, abl 
+ the, ql 
+ right, pp$ 
+ thing, vbn 
+ at, abl 
+ the, ql 
+ right, pp$ 
+ time, -- 
+ and, ql 
+ damn, abl 
+ the, dts 
+ consequences, '' 
+ ., .
+ <EOS> 
+<sentence ID=153> 
+Francesca, -- 
+ and, np 
+ Herbert, be 
+ considered, nps 
+ themselves, wql 
+ violently, to 
+ nonconformist, -- 
+ and, wps 
+ showed, abl 
+ the, at 
+ world, wrb 
+ they, ex 
+ were, vbn 
+ by, bedz 
+ filling, vbg 
+ their, at-tl 
+ Colonial, pp$ 
+ house, vbn 
+ with, ql 
+ contemporary, pp$ 
+ furniture, -- 
+ and, dts 
+ paintings, -- 
+ and, ql 
+ other, od 
+ art, dts 
+ objects, cd-tl 
+ (, nn$ 
+ expensive, uh 
+ ,, , 
+ but, dod 
+ not, ql 
+ necessarily, ql 
+ valuable, uh 
+ ,, ql 
+ contemporary, dts 
+ things, cd 
+ ), ) 
+ ., .
+ <EOS> 
+<sentence ID=154> 
+Fran, at 
+ flaunted, vb 
+ her, pp$ 
+ independence, vbn 
+ by, to 
+ rebelling, vbn 
+ against, in 
+ the, to 
+ Catatonia, ql 
+ uniform, vbn 
+ of, ( 
+ Bermuda, dts 
+ shorts, -- 
+ and, pp$ 
+ knee-length, dts 
+ socks, vbn 
+ by, bedz 
+ wearing, ( 
+ Bermuda, dts 
+ shorts, -- 
+ and, pp$ 
+ knee-length, dts 
+ socks, vbn 
+ in, dts 
+ colors, '' 
+ ;, '' 
+ ;, ql 
+ bright, to 
+ pinks, -- 
+ and, pp$ 
+ plaids, -- 
+ and, ql 
+ vivid, dts 
+ stripes, '' 
+ ., .
+ <EOS> 
+<sentence ID=155> 
+Sometimes, wrb 
+ she, ql 
+ even, at 
+ wore, in 
+ the, ql 
+ uniform, vbn 
+ in, ql 
+ solid, uh 
+ ,, ql 
+ unrelieved, ql 
+ black, uh 
+ ,, , 
+ and, rp 
+ with, vb 
+ her, ql 
+ blonde, pp$ 
+ hair, to 
+ cut, ber 
+ so, ql 
+ closely, uh 
+ ,, bedz 
+ wearing, do 
+ this, ql 
+ uniform, uh 
+ ,, wrb 
+ she, ql 
+ strongly, pps 
+ resembled, abl 
+ a, at 
+ member, vbn 
+ of, in 
+ the, to 
+ SS., .
+ <EOS> 
+<sentence ID=156> 
+., .
+ <EOS> 
+<sentence ID=157> 
+No, at 
+ one, ppss 
+ could, md 
+ dislike, vb 
+ them, uh 
+ ,, wrb 
+ I, ppss 
+ thought, '' 
+ ., .
+ <EOS> 
+<sentence ID=158> 
+Sometimes, uh 
+ ,, jjr 
+ though, uh 
+ ,, wrb 
+ they, ppss 
+ did, dod 
+ not, md 
+ seem, ber 
+ quite, ql 
+ human, '' 
+ ., .
+ <EOS> 
+<sentence ID=159> 
+It, pps 
+ seemed, uh 
+ ,, ql 
+ indeed, uh 
+ ,, jjr 
+ that, in 
+ their, pp$ 
+ house, ex 
+ was, dod 
+ not, ber 
+ so, ql 
+ much, in 
+ a, at 
+ home, uh 
+ ,, , 
+ but, ql 
+ rather, in 
+ a, ql 
+ perfect, pp$ 
+ stage, be 
+ set, uh 
+ ,, , 
+ and, jjr 
+ that, wrb 
+ they, ex 
+ were, dts 
+ actors, dts 
+ who, wps 
+ had, hv 
+ been, ben 
+ handed, ql 
+ fat, dts 
+ roles, vbn 
+ in, in 
+ a, ql 
+ successful, to 
+ play, uh 
+ ,, , 
+ and, wps 
+ had, od 
+ talent, ql 
+ enough, qlp 
+ to, to 
+ fill, abl 
+ the, dts 
+ roles, ql 
+ competently, uh 
+ ,, vbn 
+ with, ql 
+ nice, to 
+ understatement, '' 
+ ., .
+ <EOS> 
+<sentence ID=160> 
+Practically, in 
+ the, ql 
+ only, at 
+ enthusiasm, wrb 
+ they, ppss 
+ showed, ex 
+ was, dt+bez 
+ when, wrb 
+ they, ex 
+ were, bedz 
+ discussing, : 
+ ``, dts 
+ names, uh 
+ '', '' 
+ ;, '' 
+ ;, ql 
+ even, at 
+ brand, dts 
+ names, '' 
+ ., .
+ <EOS> 
+<sentence ID=161> 
+You, ppss 
+ should, md 
+ hear, abl 
+ the, to 
+ reverence, vbn 
+ in, to 
+ Fran's, pp$ 
+ voice, dt+bez 
+ when, wrb 
+ she, pps 
+ said, : 
+ ``, pp$ 
+ Baccarat, uh 
+ '', nps 
+ or, : 
+ ``, pp$ 
+ Steuben, uh 
+ '', nps 
+ or, : 
+ ``, ( 
+ Madame, np 
+ Alexander, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=162> 
+She, pps 
+ always, to 
+ let, wrb 
+ it, md 
+ be, be 
+ known, jjr 
+ that, ql 
+ there, ex 
+ was, pp$ 
+ wine, vbn 
+ in, in 
+ the, at 
+ pot, to 
+ roast, -- 
+ or, jjr 
+ that, in 
+ the, at 
+ chicken, pps 
+ had, hv 
+ been, od 
+ marinated, vbn 
+ in, pp$ 
+ brandy, uh 
+ ,, , 
+ and, jjr 
+ that, to 
+ Koussevitzky's, pp$ 
+ second, od 
+ cousin, ex 
+ was, abl 
+ an, ql 
+ intimate, vbn 
+ of, to 
+ theirs, '' 
+ ., .
+ <EOS> 
+<sentence ID=163> 
+I, ppss 
+ wouldn't, ppss+md 
+ have, ben 
+ wasted, pp$ 
+ time, ql 
+ puzzling, vbn 
+ over, in 
+ this, pp$ 
+ couple, ex 
+ were, wrb 
+ it, dod 
+ not, rp 
+ for, in 
+ my, pp$ 
+ fear, jjr 
+ that, dt+bez 
+ all, abl 
+ the, ql 
+ other, ap 
+ inhabitants, vbn 
+ of, to 
+ Catatonia, ex 
+ were, ql 
+ equally, ql 
+ unreal, '' 
+ ., .
+ <EOS> 
+<sentence ID=164> 
+I, ppss 
+ couldn't, md* 
+ feel, vbn 
+ at, pp$ 
+ home, vbn 
+ among, vb 
+ them, '' 
+ ., .
+ <EOS> 
+<sentence ID=165> 
+Besides, rb 
+ Francesca, uh 
+ ,, ql 
+ there, ex 
+ was, np 
+ Blanche, '' 
+ ., .
+ <EOS> 
+<sentence ID=166> 
+Francesca, ex 
+ was, ql 
+ pleasant, , 
+ and, ql 
+ charming, uh 
+ ,, , 
+ but, np 
+ Blanche, ex 
+ was, ql 
+ sweet, '' 
+ ., .
+ <EOS> 
+<sentence ID=167> 
+Yes, uh 
+ ,, np 
+ Blanche, ex 
+ was, bez 
+ very, uh 
+ ,, bez 
+ very, ql 
+ sweet, to 
+ --, pp$ 
+ being, vbn 
+ in, vb 
+ her, pp$ 
+ company, ex 
+ was, to 
+ like, ber 
+ being, beg 
+ drowned, vbn 
+ in, ql 
+ warm, uh 
+ ,, be 
+ melted, pp$ 
+ marshmallows, '' 
+ ., .
+ <EOS> 
+<sentence ID=168> 
+I, pps 
+ had, ql 
+ once, hvz 
+ been, abl 
+ a, to 
+ witness, dt+bez 
+ when, ( 
+ Blanche, pps 
+ had, pps 
+ smiled, , 
+ and, pps 
+ said, vbn 
+ with, ql 
+ only, ql 
+ minimum, to 
+ ruefulness, uh 
+ ,, : 
+ ``, `` 
+ Oh, uh 
+ ,, vb 
+ my, pp$ 
+ souffle, wps 
+ has, wps 
+ collapsed, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=169> 
+Anyone, pn 
+ knows, dt+bez 
+ how, abl 
+ a, ql 
+ real, uh 
+ ,, to 
+ red-blooded, pp$ 
+ woman, ppss 
+ would, md 
+ react, qlp 
+ to, ql 
+ such, abl 
+ a, at 
+ catastrophe, ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=170> 
+If, cs 
+ Blanche, pps 
+ had, hvz 
+ been, ql 
+ honest, uh 
+ ,, wrb 
+ she, ppss 
+ would, md 
+ have, wps 
+ yelled, uh 
+ ,, pps 
+ slammed, vbn 
+ at, ql 
+ least, abl 
+ a, at 
+ couple, vbn 
+ of, dts 
+ doors, uh 
+ ,, , 
+ and, be 
+ thrown, abl 
+ a, ql 
+ few, ql 
+ little, uh 
+ ,, to 
+ valueless, dts 
+ things, ppo 
+ ., .
+ <EOS> 
+<sentence ID=171> 
+But, cc 
+ dear, vb 
+ me, uh 
+ ,, abl 
+ no, ppo 
+ ;, ppo 
+ ;, dod 
+ not, ( 
+ Blanche, ppo 
+ ., .
+ <EOS> 
+<sentence ID=172> 
+After, in 
+ five, cd 
+ minutes, vbn 
+ with, np 
+ Blanche, uh 
+ ,, ( 
+ one, ppss 
+ might, md 
+ welcome, abl 
+ the, at 
+ astringency, vbn 
+ of, to 
+ Grazie, uh 
+ ,, dts 
+ who, ex 
+ was, abl 
+ a, at 
+ sort, vbn 
+ of, to 
+ Gwen, pp$ 
+ Cafritz, qlp 
+ to, to 
+ Francesca's, pp$ 
+ Perle, pp$ 
+ Mesta, '' 
+ ., .
+ <EOS> 
+<sentence ID=173> 
+Francesca, , 
+ and, to 
+ Grazie, ex 
+ were, od 
+ habitual, pp$ 
+ committee, dts 
+ chairmen, , 
+ and, wrb 
+ they, * 
+ usually, pps 
+ managed, qlp 
+ to, md 
+ be, be 
+ elected, to 
+ co-chairmen, uh 
+ ,, ql 
+ equal, dts 
+ bosses, uh 
+ ,, vbn 
+ of, dt+bez 
+ whatever, to 
+ PTA, -- 
+ or, ql 
+ civic, pp$ 
+ project, ex 
+ was, ber 
+ being, beg 
+ launched, ppo 
+ ., .
+ <EOS> 
+<sentence ID=174> 
+They, ex 
+ were, od 
+ inseparable, uh 
+ ,, to 
+ not, jjr 
+ because, wrb 
+ they, ex 
+ were, bed 
+ fond, vbn 
+ of, in 
+ each, ql 
+ other, uh 
+ ,, , 
+ but, jjr 
+ because, wrb 
+ they, wps 
+ wanted, qlp 
+ to, to 
+ keep, abl 
+ an, at 
+ eye, vbn 
+ on, in 
+ each, ql 
+ other, uh 
+ ,, jjr 
+ as, wrb 
+ they, ex 
+ were, bed 
+ keen, to 
+ rivals, rp 
+ for, ql 
+ social, pp$ 
+ leadership, '' 
+ ., .
+ <EOS> 
+<sentence ID=175> 
+Grazie, pps 
+ was, md 
+ mean, nns-hl 
+ :, bed 
+ quietly, md 
+ mean, uh 
+ ,, , 
+ and, ql 
+ bitterly, uh 
+ ,, to 
+ unfunnily, pp$ 
+ sarcastic, '' 
+ ., .
+ <EOS> 
+<sentence ID=176> 
+She, pps 
+ it, ex 
+ was, dts 
+ who, wps 
+ had, pps 
+ looked, qlp 
+ to, to 
+ see, jjr 
+ if, wrb 
+ I, ex 
+ was, bedz 
+ wearing, cd 
+ shoes, vbn 
+ upon, bedz 
+ learning, jjr 
+ that, wrb 
+ I, ppss 
+ couldn't, md* 
+ drive, ppo 
+ ., .
+ <EOS> 
+<sentence ID=177> 
+Grazie, pps 
+ had, abl 
+ a, ql 
+ small, uh 
+ ,, ql 
+ slick, pp$ 
+ head, , 
+ and, vb 
+ her, pp$ 
+ hair, , 
+ and, pp$ 
+ skin, ex 
+ were, abl 
+ the, at 
+ color, vbn 
+ of, ql 
+ golden, pp$ 
+ toast, '' 
+ ., .
+ <EOS> 
+<sentence ID=178> 
+She, pps 
+ lived, vbn 
+ in, in 
+ an, to 
+ ultra-modern, pp$ 
+ house, dts 
+ whose, wp$ 
+ decoration, uh 
+ ,, dts 
+ appointments, uh 
+ ,, to 
+ paint, uh 
+ ,, , 
+ and, ql 
+ even, dts 
+ pets, ex 
+ were, bed 
+ chosen, qlp 
+ to, pp$ 
+ complement, vb 
+ her, bed 
+ coloring, ppo 
+ ;, ppo 
+ ;, abl 
+ the, dts 
+ pets, ex 
+ were, abl 
+ a, at 
+ couple, vbn 
+ of, ql 
+ Siamese, dts 
+ cats, ppo 
+ ., .
+ <EOS> 
+<sentence ID=179> 
+Her, pp$ 
+ uniform, ex 
+ was, vbn 
+ of, ql 
+ rich, uh 
+ ,, ql 
+ raw, pp$ 
+ silk, uh 
+ ,, vbn 
+ in, in 
+ a, at 
+ shade, dt+bez 
+ which, be 
+ matched, vb 
+ her, pp$ 
+ hair, uh 
+ ,, pp$ 
+ skin, uh 
+ ,, to 
+ housepaint, uh 
+ ,, , 
+ and, dts 
+ cats, uh 
+ ,, , 
+ and, jjr 
+ since, wrb 
+ she, ex 
+ was, bez 
+ so, ql 
+ thin, jjr 
+ as, qlp 
+ to, md 
+ be, * 
+ almost, ql 
+ shapeless, uh 
+ ,, wrb 
+ she, ql 
+ rather, pps 
+ resembled, in 
+ a, be 
+ frozen, pp$ 
+ fish, to 
+ stick, ppo 
+ ., .
+ <EOS> 
+<sentence ID=180> 
+The, at 
+ husbands, vbn 
+ of, abn 
+ these, dts 
+ women, , 
+ and, dts 
+ others, wrb 
+ I, wps 
+ had, pps 
+ met, rp 
+ in, to 
+ Catatonia, ex 
+ were, bed 
+ distinguished, ql 
+ only, rp 
+ in, jjr 
+ that, wrb 
+ they, ex 
+ were, uh 
+ ,, qlp 
+ to, vb 
+ me, rp 
+ at, ql 
+ least, uh 
+ ,, ql 
+ indistinguishable, '' 
+ ., .
+ <EOS> 
+<sentence ID=181> 
+I, ppss 
+ couldn't, md* 
+ tell, ( 
+ one, rp 
+ from, in 
+ the, ql 
+ other, ppo 
+ ., .
+ <EOS> 
+<sentence ID=182> 
+Like, cs 
+ Herbert, uh 
+ ,, wrb 
+ they, ex 
+ were, dt+bez 
+ all, rp 
+ in, dts 
+ communications, nns-hl 
+ :, od 
+ radio, uh 
+ ,, pp$ 
+ television, uh 
+ ,, dts 
+ magazines, uh 
+ ,, , 
+ and, pp$ 
+ advertising, '' 
+ ., .
+ <EOS> 
+<sentence ID=183> 
+One, cd 
+ or, ( 
+ two, ex 
+ were, nns$ 
+ writers, vbn 
+ of, dts 
+ books, ppo 
+ ;, ppo 
+ ;, dt+bez 
+ all, ex 
+ were, nns$ 
+ fellows, vbn 
+ of, ql 
+ finite, pp$ 
+ charm, '' 
+ ., .
+ <EOS> 
+<sentence ID=184> 
+Each, dt 
+ had, be 
+ developed, abl 
+ a, at 
+ hair-trigger, to 
+ chuckle, -- 
+ and, abl 
+ the, at 
+ habit, vbn 
+ of, bedz 
+ saying, : 
+ ``, to 
+ zounds, uh 
+ '', ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=185> 
+In, in 
+ deference, qlp 
+ to, pp$ 
+ country-squirehood, '' 
+ ., .
+ <EOS> 
+<sentence ID=186> 
+I, ppss 
+ never, pps 
+ thought, `` 
+ I'd, do* 
+ live, qlp 
+ to, to 
+ hear, dts 
+ people, to 
+ chuckle, -- 
+ and, to 
+ say, : 
+ ``, to 
+ zounds, uh 
+ '', ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=187> 
+In, in 
+ real, pp$ 
+ life, '' 
+ ., .
+ <EOS> 
+<sentence ID=188> 
+I, ppss 
+ wouldn't, ppss+md 
+ have, be 
+ missed, wrb 
+ it, rp 
+ for, do 
+ anything, ) 
+ ., .
+ <EOS> 
+<sentence ID=189> 
+They, ppss 
+ were, beg 
+ ``, ql 
+ sincere, uh 
+ '', '' 
+ --, nns$ 
+ men, vbn 
+ of, abl 
+ the, to 
+ too-hearty, ql 
+ handclasp, , 
+ and, abl 
+ the, ql 
+ urgent, pp$ 
+ smile, '' 
+ ., .
+ <EOS> 
+<sentence ID=190> 
+These, dts 
+ boys, be 
+ acknowledged, abl 
+ an, at 
+ introduction, qlp 
+ to, do 
+ anybody, rp 
+ by, ql 
+ gently, bed 
+ pressing, pp$ 
+ one, vbn 
+ of, in 
+ his, pp$ 
+ hands, vbn 
+ in, pp$ 
+ both, vbn 
+ of, to 
+ theirs, uh 
+ ,, jjr 
+ while, wrb 
+ they, wps 
+ gazed, uh 
+ ,, to 
+ misty-eyed, rp 
+ with, to 
+ care, uh 
+ ,, vbn 
+ into, in 
+ the, dts 
+ eyes, vbn 
+ of, in 
+ the, at 
+ person, wrb 
+ they, ex 
+ were, od 
+ meeting, '' 
+ ., .
+ <EOS> 
+<sentence ID=191> 
+Could, at 
+ such, pp$ 
+ unadulterated, to 
+ love, uh 
+ ,, vbn 
+ for, in 
+ a, ql 
+ total, pp$ 
+ stranger, uh 
+ ,, md 
+ be, be 
+ credited, ppo 
+ ?, ppo 
+ ?, .
+ <EOS> 
+<sentence ID=192> 
+They, ppss 
+ were, bed 
+ always, pp$ 
+ leaping, qlp 
+ to, pp$ 
+ light, dts 
+ cigarettes, uh 
+ ,, ql 
+ open, pp$ 
+ car, dts 
+ doors, uh 
+ ,, to 
+ fill, dts 
+ plates, , 
+ or, dts 
+ glasses, uh 
+ ,, , 
+ and, wrb 
+ I, pp$ 
+ mistrusted, abl 
+ the, ql 
+ whole, pp$ 
+ lot, vbn 
+ of, vb 
+ them, qlp 
+ to, abl 
+ the, ql 
+ same, pp$ 
+ degree, jjr 
+ that, wrb 
+ I, pp$ 
+ mistrusted, to 
+ bake, dts 
+ shops, jjr 
+ that, be 
+ called, to 
+ themselves, : 
+ ``, at-tl 
+ Sanitary, np 
+ Bake, to 
+ Shops, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=193> 
+``, `` 
+ O, ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=194> 
+Pioneers, ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=195> 
+'', '' 
+ I, wps 
+ thought, uh 
+ ,, , 
+ and, pps 
+ wondered, dt+bez 
+ what, pp$ 
+ kind, vbn 
+ of, to 
+ homesteads, ql 
+ such, ql 
+ odd, to 
+ pioneers, ppss 
+ would, md 
+ establish, rp 
+ in, in 
+ this, ql 
+ suburban, pp$ 
+ frontier, ppo 
+ ;, ppo 
+ ;, to 
+ pioneers, dts 
+ who, wps 
+ looked, to 
+ like, ql 
+ off-duty, to 
+ gardeners, ql 
+ even, rp 
+ at, to 
+ parent-teacher, dts 
+ conferences, , 
+ and, dts 
+ who, * 
+ never, be 
+ called, abl 
+ the, at 
+ school, pp$ 
+ principal, : 
+ ``, in-tl 
+ Mister, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=196> 
+I, ppss 
+ sighed, uh 
+ ,, bedz 
+ thinking, jjr 
+ that, vbn 
+ among, ql 
+ other, dts 
+ things, uh 
+ ,, dts 
+ people, ql 
+ here, pps 
+ seemed, qlp 
+ to, md 
+ be, abn 
+ those, dts 
+ who, wps 
+ would, md 
+ have, qlp 
+ to, to 
+ cut, vb 
+ down, -- 
+ if, wrb 
+ they, bed 
+ earned, ql 
+ less, jjr 
+ than, to 
+ $85,000, ql 
+ yearly, ppo 
+ ;, ppo 
+ ;, dts 
+ people, dts 
+ who, wps 
+ would, md 
+ give, vb 
+ their, pp$ 
+ teeth, vbn 
+ for, in 
+ a, at 
+ chance, qlp 
+ to, to 
+ get, rp 
+ on, : 
+ ``, at-tl 
+ Person, qlp 
+ to, at-tl 
+ Person, uh 
+ '', ppo 
+ ;, ppo 
+ ;, dts 
+ people, dts 
+ who, wps 
+ thought, wrb 
+ it, ex 
+ was, pp$ 
+ nice, qlp 
+ to, md 
+ be, bed 
+ important, uh 
+ ,, , 
+ but, dod 
+ not, bed 
+ important, qlp 
+ to, md 
+ be, pp$ 
+ nice, ppo 
+ ;, ppo 
+ ;, dts 
+ who, od 
+ were, ql 
+ more, ql 
+ ingratiating, jjr 
+ than, ql 
+ gracious, uh 
+ ,, ql 
+ more, dts 
+ personalities, jjr 
+ than, dts 
+ persons, ppo 
+ ., .
+ <EOS> 
+<sentence ID=197> 
+In, in 
+ my, pp$ 
+ estimation, uh 
+ ,, wrb 
+ they, ex 
+ were, nns$ 
+ people, dts 
+ who, md* 
+ read, pp$ 
+ Daphne, to 
+ du, pp$ 
+ Maurier, uh 
+ ,, , 
+ and, bed 
+ discussed, to 
+ Kafka, ppo 
+ ;, ppo 
+ ;, ql 
+ well, uh 
+ ,, dod 
+ not, bed 
+ discussed, vb 
+ him, ql 
+ exactly, uh 
+ ,, , 
+ but, pps 
+ said, uh 
+ ,, : 
+ ``, to 
+ Kafka, uh 
+ '', ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=198> 
+Reverently, np 
+ and, be 
+ raised, vb 
+ their, pp$ 
+ eyes, uh 
+ ,, jjr 
+ as, jjr 
+ if, wrb 
+ they, ex 
+ were, ppl 
+ at, in 
+ a, at 
+ loss, qlp 
+ to, to 
+ describe, dt+bez 
+ how, wrb 
+ they, wps 
+ felt, vbn 
+ about, pp$ 
+ Kafka, uh 
+ ,, dt+bez 
+ which, wrb 
+ they, ex 
+ were, uh 
+ ,, jjr 
+ because, wrb 
+ they, wps 
+ had, abl 
+ no, dts 
+ opinions, vbn 
+ about, pp$ 
+ Kafka, uh 
+ ,, dod 
+ not, ppss+ber 
+ having, do* 
+ read, pp$ 
+ Kafka, '' 
+ ., .
+ <EOS> 
+<sentence ID=199> 
+They, ex 
+ were, uh 
+ ,, wrb 
+ I, wps 
+ felt, uh 
+ ,, dts 
+ people, pp$ 
+ invariably, bedz 
+ trying, qlp 
+ to, to 
+ prove, dod 
+ not, nps 
+ who, uh 
+ ,, , 
+ but, dt+bez 
+ what, wrb 
+ they, ex 
+ were, uh 
+ ,, , 
+ and, bedz 
+ trying, qlp 
+ to, to 
+ determine, dt+bez 
+ what, uh 
+ ,, dod 
+ not, nps 
+ who, uh 
+ ,, dts 
+ others, ex 
+ were, ppl 
+ ., .
+ <EOS> 
+<sentence ID=200> 
+Becoming, at 
+ aware, jjr 
+ that, wrb 
+ it, ex 
+ was, ql 
+ nearly, ql 
+ lunchtime, uh 
+ ,, wrb 
+ I, wps 
+ brought, vbd 
+ myself, wql 
+ back, qlp 
+ to, abl 
+ the, dts 
+ tasks, vbn 
+ at, pp$ 
+ hand, '' 
+ ., .
+ <EOS> 
+<sentence ID=201> 
+I, ppss 
+ made, dts 
+ plans, vbn 
+ for, in 
+ the, at 
+ afternoon, '' 
+ --, od 
+ doing, in 
+ the, at 
+ breakfast, , 
+ and, pp$ 
+ luncheon, dts 
+ dishes, dt+bez 
+ all, rp 
+ at, ql 
+ once, uh 
+ ,, pp$ 
+ making, in 
+ the, dts 
+ beds, uh 
+ ,, , 
+ and, ql 
+ then, ql 
+ maybe, pp$ 
+ painting, in 
+ the, at 
+ kitchen, '' 
+ ., .
+ <EOS> 
+<sentence ID=202> 
+Then, rb 
+ ,, wrb 
+ I, wps 
+ remembered, pp$ 
+ that, in 
+ the, dts 
+ girls, pps 
+ had, pps 
+ had, abl 
+ a, at 
+ banana, vbn 
+ for, pp$ 
+ dessert, in 
+ every, at 
+ day, vbn 
+ for, in 
+ the, ql 
+ last, pp$ 
+ week, '' 
+ ., .
+ <EOS> 
+<sentence ID=203> 
+``, `` 
+ Bananas, uh 
+ '', ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=204> 
+Jennie, pps 
+ had, pps 
+ shouted, in 
+ each, pp$ 
+ time, '' 
+ ., .
+ <EOS> 
+<sentence ID=205> 
+``, `` 
+ They're, ppss+bem 
+ not, od 
+ dessert, ppo 
+ !, ppo 
+ !, .
+ <EOS> 
+<sentence ID=206> 
+They're, ppss+ber 
+ not, * 
+ even, pp$ 
+ food, '' 
+ ., .
+ <EOS> 
+<sentence ID=207> 
+They're, pps 
+ just, do 
+ something, pp$ 
+ you're, be 
+ supposed, qlp 
+ to, to 
+ put, rp 
+ on, pp$ 
+ cereal, vbn 
+ for, pp$ 
+ breakfast, uh 
+ '', '' 
+ ., .
+ <EOS> 
+<sentence ID=208> 
+I, ppss 
+ dug, vbn 
+ around, , 
+ and, pps 
+ found, in 
+ a, to 
+ mix, uh 
+ ,, , 
+ and, ex 
+ was, ql 
+ able, qlp 
+ to, pp$ 
+ surprise, pp$ 
+ them, vbn 
+ with, in 
+ a, to 
+ devil's-food, pp$ 
+ cake, vbn 
+ with, pp$ 
+ chocolate, pp$ 
+ icing, '' 
+ ., .
+ <EOS> 
+<sentence ID=209> 
+(, ( 
+ Sometimes, wrb 
+ I, md* 
+ think, wrb 
+ you, md* 
+ need, ql 
+ only, ( 
+ one, pp$ 
+ rule, vbn 
+ for, bedz 
+ cooking, nns-hl 
+ :, -- 
+ if, wrb 
+ you, pp$ 
+ can't, to 
+ put, pp$ 
+ garlic, vbn 
+ in, wrb 
+ it, uh 
+ ,, to 
+ put, pp$ 
+ chocolate, vbn 
+ in, wrb 
+ it, ppo 
+ ., .
+ <EOS> 
+<sentence ID=210> 
+), ) 
+ The, at 
+ cake, ex 
+ was, be 
+ received, vbn 
+ in, in 
+ a, be 
+ stunned, pp$ 
+ silence, jjr 
+ that, ex 
+ was, pp$ 
+ evidence, vbn 
+ in, to 
+ itself, rp 
+ of, in 
+ the, to 
+ dearth, rp 
+ of, pp$ 
+ taste, to 
+ thrills, at-tl 
+ Mama, pps 
+ had, hvz 
+ been, bed 
+ providing, ppo 
+ ., .
+ <EOS>
